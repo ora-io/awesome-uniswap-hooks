@@ -29,6 +29,8 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 ## Tutorials
 
 - [LearnWeb3/Uniswap v4 Hooks: Create a fully on-chain "take-profit" orders hook on Uniswap v4](https://learnweb3.io/lessons/uniswap-v4-hooks-create-a-fully-on-chain-take-profit-orders-hook-on-uniswap-v4/)
+- [Solidity Developer: How to ​integrate Uniswap 4 and create custom hook](https://soliditydeveloper.com/uniswap4)
+- [James Bachini: Introduction to Uniswap v4 Hooks](https://jamesbachini.com/uniswap-v4-hooks/)
 
 
 ## Ideas
