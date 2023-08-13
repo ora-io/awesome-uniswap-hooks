@@ -23,8 +23,8 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 ## Tools
 
 - [devtooligan/HookMineAndSinker](https://github.com/devtooligan/HookMineAndSinker): Mine addresses for UniswapV4 Hooks.
-- [drgorillamd/uniV4-hook-deployer](https://github.com/drgorillamd/uniV4-hook-deployer), Uniswap V4 hook create2 deployer.
-- [jamesbachini/Uniswap-v4-Tests](https://github.com/jamesbachini/Uniswap-v4-Tests), A test suite for working with Uniswap v4 Hooks.
+- [drgorillamd/uniV4-hook-deployer](https://github.com/drgorillamd/uniV4-hook-deployer): Uniswap V4 hook create2 deployer.
+- [jamesbachini/Uniswap-v4-Tests](https://github.com/jamesbachini/Uniswap-v4-Tests): A test suite for working with Uniswap v4 Hooks.
 
 ## Tutorials
 
