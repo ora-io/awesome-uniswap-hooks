@@ -5,7 +5,7 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 ## Hooks
 
 - [saucepoint/median-oracles](https://github.com/saucepoint/median-oracles): Experimental variations for a Median Price Oracle with Uni v4.
-- [trading-days](https://github.com/horsefacts/trading-days): A Uniswap v4 hook that reverts when markets are closed in New York.
+- [horsefacts/trading-days](https://github.com/horsefacts/trading-days): A Uniswap v4 hook that reverts when markets are closed in New York.
 - [saucepoint/v4-stoploss](https://github.com/saucepoint/v4-stoploss): Stop Loss Orders via Uniswap V4 Hooks.
 - [jtriley-eth/huff-hooks](https://github.com/jtriley-eth/huff-hooks): Uniswap V4 Huff Hooks.
 - [saucepoint/v4-hyperlane-LPTs](https://github.com/saucepoint/v4-hyperlane-LPTs): Automate LPTs on destination chains using Hyperlane in Uniswap v4 Hooks.
@@ -28,7 +28,7 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 
 ## Tutorials
 
-- [LearnWeb3/Uniswap v4 Hooks: Create a fully on-chain "take-profit" orders hook on Uniswap v4](https://learnweb3.io/lessons/uniswap-v4-hooks-create-a-fully-on-chain-take-profit-orders-hook-on-uniswap-v4/)
+- [Uniswap v4 Hooks: Create a fully on-chain "take-profit" orders hook on Uniswap v4](https://learnweb3.io/lessons/uniswap-v4-hooks-create-a-fully-on-chain-take-profit-orders-hook-on-uniswap-v4/)
 - [Solidity Developer: How to ​integrate Uniswap 4 and create custom hook](https://soliditydeveloper.com/uniswap4)
 - [James Bachini: Introduction to Uniswap v4 Hooks](https://jamesbachini.com/uniswap-v4-hooks/)
 
