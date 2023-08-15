@@ -32,7 +32,6 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 - [Solidity Developer: How to ​integrate Uniswap 4 and create custom hook](https://soliditydeveloper.com/uniswap4)
 - [James Bachini: Introduction to Uniswap v4 Hooks](https://jamesbachini.com/uniswap-v4-hooks/)
 
-
 ## Ideas
 
 - A time-weighted average market maker ([TWAMM](https://github.com/Uniswap/v4-periphery/blob/main/contracts/hooks/examples/TWAMM.sol))
