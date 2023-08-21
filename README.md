@@ -19,6 +19,7 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 - [saucepoint/v4-template](https://github.com/saucepoint/v4-template): Template repository for writing Uniswap V4 Hooks.
 - [ArrakisFinance/uni-v4-playground](https://github.com/ArrakisFinance/uni-v4-playground): Uniswap v4 playground.
 - [LucasMartinCalderon/Uniswap](https://github.com/LucasMartinCalderon/Uniswap): Uniswap V4 Hooks Template for ETHGlobal Hackathon.
+- [naddison36/uniswap-v4-hooks](https://github.com/naddison36/uniswap-v4-hooks) Uniswap v4 Hooks with factory to mine addresses and trace diagrams.
 
 ## Tools
 
