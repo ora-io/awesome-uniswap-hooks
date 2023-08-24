@@ -44,3 +44,8 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 - Internalized MEV profits are distributed back to LPs
 - [v4 hooks as keeper](https://twitter.com/saucepoint/status/1686070429503676416)
 - [Oracleless lending protocol](https://blog.instadapp.io/oracleless-lending-protocol-on-uniswap-v4/)
+- [Permissioned swaps with axiom proofs](https://twitter.com/saucepoint/status/1694391713798705447)
+- [Trustless LP rebalancing with axiom proofs](https://twitter.com/saucepoint/status/1694391713798705447)
+- [Unwrap 4626 assets on-swap](https://twitter.com/saucepoint/status/1694391715094749340)
+- [Consistent pool initialization](https://twitter.com/saucepoint/status/1694391715094749340)
+- [Top-of-block auctions and mitigating MEV/sandwiches](https://twitter.com/saucepoint/status/1694391716457947508)
