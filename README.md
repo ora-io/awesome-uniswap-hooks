@@ -49,3 +49,4 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 - [Unwrap 4626 assets on-swap](https://twitter.com/saucepoint/status/1694391715094749340)
 - [Consistent pool initialization](https://twitter.com/saucepoint/status/1694391715094749340)
 - [Top-of-block auctions and mitigating MEV/sandwiches](https://twitter.com/saucepoint/status/1694391716457947508)
+- [Hook safety as a service](https://twitter.com/xin__wan/status/1695258362298933499)
