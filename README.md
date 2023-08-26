@@ -35,7 +35,7 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 
 ## Ideas
 
-- A time-weighted average market maker ([TWAMM](https://github.com/Uniswap/v4-periphery/blob/main/contracts/hooks/examples/TWAMM.sol))
+- A time-weighted average market maker ([TWAMM](https://github.com/Uniswap/v4-periphery/blob/main/contracts/hooks/examples/TWAMM.sol), and [blog](https://blog.uniswap.org/v4-twamm-hook))
 - Dynamic fees based on [volatility](https://github.com/Uniswap/v4-periphery/blob/main/contracts/hooks/examples/VolatilityOracle.sol) or other inputs
 - [Onchain limit orders](https://github.com/Uniswap/v4-periphery/blob/main/contracts/hooks/examples/LimitOrder.sol)
 - Depositing out-of-range liquidity into lending protocols
