@@ -1,10 +1,10 @@
-# Awesome Uniswap v4 Hooks
+# 🦄️ Awesome Uniswap v4 Hooks
 
 A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hooks](https://github.com/Uniswap/v4-periphery/tree/main/contracts/hooks) resources.
 
 ## 📑 Table of Contents
 
-- [Awesome Uniswap v4 Hooks](#awesome-uniswap-v4-hooks)
+- [🦄️ Awesome Uniswap v4 Hooks](#️-awesome-uniswap-v4-hooks)
   - [📑 Table of Contents](#-table-of-contents)
   - [🤔 Introduction](#-introduction)
   - [🔄 Lifecycle](#-lifecycle)
