@@ -13,6 +13,7 @@ A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hook
 - [wagmiwiz/nft-owners-only-uniswap-hook](https://github.com/wagmiwiz/nft-owners-only-uniswap-hook): A Uniswap v4 hook that disallows a swap if sender doesn't own an ERC721 NFT.
 - [antoniordf/impermanent-loss-hedge](https://github.com/antoniordf/impermanent-loss-hedge): Uniswap V4 hook to hedge against impermanent loss.
 - [kadenzipfel/veLP](https://github.com/kadenzipfel/veLP): A Curve-style voting escrow (ve) Uniswap v4 hook.
+- [atj3097/mfa-multisig-hook-v4](https://github.com/atj3097/mfa-multisig-hook-v4), MultiSigSwapHook for Uniswap v4.
 
 ## Templates
 
