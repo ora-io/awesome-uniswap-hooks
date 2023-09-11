@@ -95,6 +95,7 @@ _A collection of hooks from Uniswap and community developers._
 - [NFT Owners Only](https://github.com/wagmiwiz/nft-owners-only-uniswap-hook): Disallows a swap if sender doesn't own an ERC721 NFT. This can be used to prevent people from selling tokens that they don't own.
 - [Curve Style Voting Escrow - veLP](https://github.com/kadenzipfel/veLP): A Curve-style voting escrow (ve) hook. This can be used to create a more democratic and efficient way to vote on changes to a liquidity pool.
 - [Huff Hooks](https://github.com/jtriley-eth/huff-hooks): Allows developers to add custom functionality to pools. This can be used to create a variety of new features, such as limit orders or margin trading.
+- [Magna Carta](https://github.com/tarunsintern/magna-carta): A hook for enforcing a verifiable sequencing rule. This can be used to prevent front-running and other types of manipulation.
 
 ## 🛠 Tools
 
