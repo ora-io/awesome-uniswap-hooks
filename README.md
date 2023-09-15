@@ -2,6 +2,8 @@
 
 A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hooks](https://github.com/Uniswap/v4-periphery/tree/main/contracts/hooks) resources.
 
+Special thanks to Uniswap Foundation for [including this resource in the official doc](https://web.archive.org/web/20230915081852/https://docs.uniswapfoundation.org/hooks/hook-examples)!
+
 ## 📑 Table of Contents
 
 - [🦄️ Awesome Uniswap v4 Hooks](#️-awesome-uniswap-v4-hooks)
