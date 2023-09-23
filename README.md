@@ -109,6 +109,7 @@ _Utilize these tools to boost your development process._
 - [Hook Mine And Sinker](https://github.com/devtooligan/HookMineAndSinker): Mine addresses for UniswapV4 Hooks. This tool can be used to generate random addresses that are eligible to become hooks. This can be useful for testing or for deploying your own Hooks.
 - [Hook Deployer](https://github.com/drgorillamd/uniV4-hook-deployer): Hook create2 deployer. This tool can be used to deploy hooks to Ethereum.
 - [Uniswap v4 Tests](https://github.com/jamesbachini/Uniswap-v4-Tests): A test suite for working with Uniswap v4 hooks. This test suite can be used to verify that your hooks are working correctly.
+- [Uniswap v4 Hook Test Framework](https://github.com/khegeman/uniswapv4-hook-test-framework): A fuzz testing framework for Uniswap V4 Hooks, built during ETHGlobal 2023. This framework can be used to test the security of your hooks.
 
 ## 📐 Templates
 
