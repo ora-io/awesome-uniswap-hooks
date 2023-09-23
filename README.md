@@ -155,6 +155,7 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 - [Torando Cash on Hooks](https://twitter.com/witconomist/status/1694859874080076180?s=20): A Tornado-like system, utilizing all of Uniswap's liquidity as its pool.
 - [Hook Safety as a Service](https://twitter.com/xin__wan/status/1695258362298933499): Insuring safety of a hook up to a certain amount.
 - [Gasless Swaps](https://twitter.com/dhruvinparikh_/status/1691441830410461184?s=20): Incentivizing traders via a non-toxic MEV executer with gasless swaps.
+- [Hook to Facilitate Keeper Activity](https://twitter.com/saucepoint/status/1686070429503676416): An intuition on using v4 hooks to facilitate keeper activity.
 
 ## 👀 See Also
 
