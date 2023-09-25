@@ -14,6 +14,7 @@ Special thanks to Uniswap Foundation for [including this resource in the officia
   - [📜 Examples](#-examples)
     - [From Uniswap](#from-uniswap)
     - [From the Community](#from-the-community)
+    - [From the Hackthon](#from-the-hackthon)
   - [🛠 Tools](#-tools)
   - [📐 Templates](#-templates)
   - [🎓 Tutorials](#-tutorials)
@@ -31,11 +32,9 @@ _These resources will help you get started with Uniswap v4 hooks._
 
 - [Uniswap's v4 Announcement](https://blog.uniswap.org/uniswap-v4): Official announcement article from Uniswap detailing their vision for v4, including the introduction of hooks.
 - [Uniswap v4 Developer Documents](https://docs.uniswapfoundation.org/): Official V4 Developer Documents from Uniswap Foundation, covering topics including how developer would begin to start building out hooks on local testnets in order to start testing out hook designs.
-- [Uniswap v4: A New Era For Defi](https://uniswapfoundation.mirror.xyz/5elfLDeU-AMehTtnwAswhc3p2NjF3_BWDtji6BEzh_0): Article from Uniswap discussing their excitement for the developing of the ecosystem -- highlighting hooks' ability to attract liquidity, design new interfaces, and bridge DeFi into the mainstream.
 - [Core smart contracts of Uniswap v4](https://github.com/Uniswap/v4-core): The core smart contracts of Uniswap v4, highlighting `v4-core`'s singleton-style architecture, the management of all pool state in `PoolManager.sol`, and use of hook contracts to implement callbacks in the lifecycle of pool actions.
 - [Peripheral smart contracts for interacting with Uniswap v4](https://github.com/Uniswap/v4-periphery): `v4-periphery` hosts the logic that builds on top of the core pool logic like hook contracts, position managers, and even possibly libraries needed for integrations. It is still under development and is being updated as the v4 ecosystem matures. Includes the `BaseHook` contract that can be used as a base for creating custom hooks.
 - [Draft Technical Whitepaper for Uniswap v4 Core](https://github.com/Uniswap/v4-core/blob/main/whitepaper-v4-draft.pdf): Covers an introduction to Uniswap v4, hooks, singleton and flash accounting, native ETH, and other notable features.
-- [Contribution Guidelines for Uniswap v4 Core](https://github.com/Uniswap/v4-core/blob/main/CONTRIBUTING.md): Uniswap has released the draft code so that v4 can be built in public with community contribution. You may contribute by opening an issue, resolving an issue, and reviewing open PRs.
 
 ## 🔄 Lifecycle
 
@@ -85,12 +84,8 @@ _A collection of hooks from Uniswap and community developers._
 - [Whitelist](https://github.com/atj3097/whitelist-hook): Restricts pool participation to a whitelist of approved addresses. This can be used to prevent certain people from participating in a pool, such as people who have been banned from the platform or people who are considered to be high-risk traders.
 - [Old Account](https://github.com/jdubpark/Uniswap-Hooks/blob/main/contracts/OldAccountHook.sol): Allows only old accounts to use the pool. Old is subjective; it's the hook owner's job to define "old".
 - [KYC](https://github.com/jdubpark/Uniswap-Hooks/blob/main/contracts/KYCHook.sol): Allows for Know Your Customer (KYC) checks to be performed on users before they are allowed to trade on a pool. This can be used to prevent fraud and ensure that only legitimate users are able to trade.
-- [Trading Hours](https://github.com/bennoprice/univ4/blob/main/src/TradingHours.sol): Allows trading to only occur between defined trading hours. This can be used to prevent trading during certain times of day, such as when the market is illiquid or when there is a high risk of price volatility.
 - [New York Trading Hours](https://github.com/horsefacts/trading-days): Reverts when markets are closed in New York. This can be used to prevent trading during certain times of the day, such as when the New York Stock Exchange is closed.
-- [Hedging Mechanism](https://github.com/vanillaHill/hedge): Allows users to hedge their positions against market volatility. This can be done by using a variety of techniques, such as buying options or futures contracts.
 - [Impermanent Loss Hedge (Antonio Furtado)](https://github.com/antoniordf/impermanent-loss-hedge): A hook to hedge against impermanent loss. This can be used to protect liquidity providers from losing money due to price fluctuations.
-- [Impermanent Loss Hedge (Makemake)](https://github.com/makemake-kbo/sdhasidhas): Another hook to automatically hedge impermanent loss with options.
-- [Median Price Oracle](https://github.com/saucepoint/median-oracles): Provides a more accurate price feed. This can be done by using a variety of techniques, such as aggregating prices from multiple sources or using a median price calculation.
 - [Stop Loss Order](https://github.com/saucepoint/v4-stoploss): Allows users to place stop loss orders on their positions. This means that the position will be automatically closed if the price reaches a certain level.
 - [Liquidity Provider Fee Rebate](https://github.com/jdubpark/Uniswap-Hooks/blob/main/contracts/LPFeeRebateHook.sol): Allows liquidity providers (LPs) to receive a rebate on the fees they pay when swapping tokens on a pool. This can be used to incentivize LPs to provide liquidity to the pool.
 - [On-Chain Take Profit Order](https://github.com/LearnWeb3DAO/uniswap-v4-take-profits-hook): Allows users to place automatically executing on-chain "take-profit" orders. This means that the position will be automatically closed if the price reaches a certain level.
@@ -101,6 +96,29 @@ _A collection of hooks from Uniswap and community developers._
 - [Huff Hooks](https://github.com/jtriley-eth/huff-hooks): Allows developers to add custom functionality to pools. This can be used to create a variety of new features, such as limit orders or margin trading.
 - [Magna Carta](https://github.com/tarunsintern/magna-carta): A hook for enforcing a verifiable sequencing rule. This can be used to prevent front-running and other types of manipulation.
 - [Uni LBP](https://github.com/kadenzipfel/uni-lbp): A capital-efficient Uniswap v4 liquidity bootstrapping pool (LBP) hooks contract. This can be used to allow tokens to be sold at a linearly decreasing price.
+- [UniKits Hooks](https://github.com/UniKits-Dev/uniswap-v4-unikits-hooks): A series of hooks and tools to enhance the functionality of Uniswap v4 Hooks. These can be used to provide v4 pools with basic functions such as auth to swap, and swap to share.
+
+### From the Hackthon
+
+**[ETHGlobal New York 2023](https://ethglobal.com/showcase?events=newyork2023)**
+
+- [MEVictim Rebate](https://ethglobal.com/showcase/mevictim-rebate-qsxak) ([source](https://github.com/mliuuu/ETHNYC23/)): Allows you to identify MEV victims using historical onchain data which then airdrops the victim a token to use in a Uniswap v4 gated pool on where they can get a rebate when providing liquidity.
+- [Fair Trade](https://ethglobal.com/showcase/fair-trade-yrg2f) ([source](https://github.com/batoulalkarim/copy-trade-nyc-mb)): A Uniswap v4 pool that launches tokens with safety guarantees for future token holders and traders. Designed to be a hook to be added to pools to protect against shit-coin ruggings.
+- [NFT Pool Party](https://ethglobal.com/showcase/nft-pool-party-snybc) ([source](https://github.com/nftpoolparty/monorepo)): Enables you to launch your NFT collection on Uniswap & earn ongoing income streams from royalties (again). Used v4 Hooks to create NFT IDOs and gave the power back to the creators to control their royalties.
+- [ReCentFi](https://ethglobal.com/showcase/recentifi-k7jan) ([source](https://github.com/KaiStryker/ReCentiFi)): An AI-powered platform to reward eco-friendly action. Users pick up trash, upload videos for verification, and gain exclusive access to ‘clean’ Uniswap pools with verification gated hooks added to them.
+- [0xY](https://ethglobal.com/showcase/0xy-bjtsk) ([source](https://github.com/NPrada/oxy-hack-fe)): Borrowing protocol offering put-protected term loans that protect against price liquidation. A Uniswap V4 pool implements custom hooks that lends to the protocol whenever the price moves out of range for a user's LP.
+- [Axiom LP Mgmt](https://ethglobal.com/showcase/axiom-lp-mgmt-1h3z2) ([source](https://github.com/saucepoint/v4-axiom-rebalancing/)): A Uniswap v4 hook and position manager to enable trustless LP modification with Axiom. Modifies positions on Uniswap pools automatically so that LPs can passively make better returns.
+- [UniV4 CCLP Hook](https://ethglobal.com/showcase/univ4-cclp-hook-zd3st) ([source](https://github.com/cesarhuret/ethglobalnyc)): Uses Uniswap V4 to create a hook that seamlessly transfers the user's LP to another chain, without them having to worry about bridging or anything else.
+- [TimeConcentrate](https://ethglobal.com/showcase/timeconcentrate-c58h4) ([source](https://github.com/MarcusWentz/time_concentrate)): Concentrates liquidity along price, and now time, with Uni v4 hooks to mitigate the times MEV bots attack. Hook that modifies positions based on time of MEV attacks.
+- [Arb Controller](https://ethglobal.com/showcase/arb-controller-dw3so) ([source](https://github.com/ziyincody/arbitrage-controller-ETHNYC)): A Uniswap v4 hook that sets dynamic fee for a pool based on the price movements. The dynamic fee partially discriminates informed order flow from arbitrageurs.
+
+**[EthCC Paris Hookathon 2023](https://twitter.com/UniswapFND/status/1683983199872122881)**
+
+- [Median Price Oracle](https://github.com/saucepoint/median-oracles): An initial exploration of a median price oracle that is more resistant to manipulation than TWAP. It includes an approximation algorithm where a running median can provide substantial gas efficiency on both read and write.
+- [Impermanent Loss Hedge (Makemake)](https://github.com/makemake-kbo/sdhasidhas): A hook to explore ways to hedge impermanent loss for LPs by buying out of the money call options on the underlying asset. When liquidity is added to the pool, the hook is called & executes a purchase of the req. amount of calls in Lyra options protocol.
+- [Hedge](https://github.com/vanillaHill/hedge): Risk management strategies using hooks. The project showcases how hedging mechanisms can mitigate price volatility risks in a trader's portfolio.
+- [Trading Hours](https://github.com/bennoprice/univ4/blob/main/src/TradingHours.sol): Traditional market opening/closing hours to a Uniswap v4 pool using a beforeSwap hook. Users are only able to trade between 8am and 4pm.
+- [Dynamic Fee](https://github.com/ArrakisFinance/uni-v4-playground/blob/main/contracts/ArrakisHookV1.sol): Adjusts with the goal of cutting LP losses to arbitrageurs, and an implementation of a shared fungible liquidity position (similar to a vault).
 
 ## 🛠 Tools
 
@@ -152,9 +170,9 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 
 - [Loss Versus Rebalancing Minimization](https://ethresear.ch/t/lvr-minimization-in-uniswap-v4/15900): Research funded from the Uniswap Foundation Grants Program regarding cross-domain MEV sources within the DEX ecosystem, specifically on loss-versus-rebalancing (LVR).
 - [Oracleless Lending Protocol](https://blog.instadapp.io/oracleless-lending-protocol-on-uniswap-v4/): Creating a new lending protocol offering features like flexible liquidation thresholds, oracle-free operations, and enhanced earnings for liquidity providers.
-- [Torando Cash on Hooks](https://twitter.com/witconomist/status/1694859874080076180?s=20): A Tornado-like system, utilizing all of Uniswap's liquidity as its pool.
+- [Torando Cash on Hooks](https://twitter.com/witconomist/status/1694859874080076180): A Tornado-like system, utilizing all of Uniswap's liquidity as its pool.
 - [Hook Safety as a Service](https://twitter.com/xin__wan/status/1695258362298933499): Insuring safety of a hook up to a certain amount.
-- [Gasless Swaps](https://twitter.com/dhruvinparikh_/status/1691441830410461184?s=20): Incentivizing traders via a non-toxic MEV executer with gasless swaps.
+- [Gasless Swaps](https://twitter.com/dhruvinparikh_/status/1691441830410461184): Incentivizing traders via a non-toxic MEV executer with gasless swaps.
 - [Hook to Facilitate Keeper Activity](https://twitter.com/saucepoint/status/1686070429503676416): An intuition on using v4 hooks to facilitate keeper activity.
 
 ## 👀 See Also
@@ -162,9 +180,8 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 _Check out these related resources._
 
 - [Uniswap Hooks Discussion Board](https://hooks.uniswapfoundation.org): A location to share skills, knowledge, and interests through ongoing conversation regarding Uniswap v4 hooks.
-- [StackExchange: Hooks, returning the function selector](https://ethereum.stackexchange.com/questions/151985/why-do-we-need-to-check-function-return-right-selector): Explanation of why we return the function selector to signal successful function call with hooks (for example, deciding not to accept a donation).
-- [Uniswap Twitter thread on the first ever Hookathon](https://twitter.com/UniswapFND/status/1683983199872122881?s=20): Highlights of the hookathon (hackthon for Uniswap hooks) including the r hackers (hookers) and the hooks the built.
-- [Uniswap Twitter thread on TWAMM](https://twitter.com/Uniswap/status/1674452938683473921?s=20): 6-tweet thread on the use case for time weighted automatic market makers.
+- [Uniswap v4: A New Era For Defi](https://uniswapfoundation.mirror.xyz/5elfLDeU-AMehTtnwAswhc3p2NjF3_BWDtji6BEzh_0): Article from Uniswap discussing their excitement for the developing of the ecosystem -- highlighting hooks' ability to attract liquidity, design new interfaces, and bridge DeFi into the mainstream.
+- [Contribution Guidelines for Uniswap v4 Core](https://github.com/Uniswap/v4-core/blob/main/CONTRIBUTING.md): Uniswap has released the draft code so that v4 can be built in public with community contribution. You may contribute by opening an issue, resolving an issue, and reviewing open PRs.
 
 ## 🙏 Thanks
 
