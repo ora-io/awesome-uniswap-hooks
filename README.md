@@ -86,12 +86,8 @@ _A collection of hooks from Uniswap and community developers._
 - [Whitelist](https://github.com/atj3097/whitelist-hook): Restricts pool participation to a whitelist of approved addresses. This can be used to prevent certain people from participating in a pool, such as people who have been banned from the platform or people who are considered to be high-risk traders.
 - [Old Account](https://github.com/jdubpark/Uniswap-Hooks/blob/main/contracts/OldAccountHook.sol): Allows only old accounts to use the pool. Old is subjective; it's the hook owner's job to define "old".
 - [KYC](https://github.com/jdubpark/Uniswap-Hooks/blob/main/contracts/KYCHook.sol): Allows for Know Your Customer (KYC) checks to be performed on users before they are allowed to trade on a pool. This can be used to prevent fraud and ensure that only legitimate users are able to trade.
-- [Trading Hours](https://github.com/bennoprice/univ4/blob/main/src/TradingHours.sol): Allows trading to only occur between defined trading hours. This can be used to prevent trading during certain times of day, such as when the market is illiquid or when there is a high risk of price volatility.
 - [New York Trading Hours](https://github.com/horsefacts/trading-days): Reverts when markets are closed in New York. This can be used to prevent trading during certain times of the day, such as when the New York Stock Exchange is closed.
-- [Hedging Mechanism](https://github.com/vanillaHill/hedge): Allows users to hedge their positions against market volatility. This can be done by using a variety of techniques, such as buying options or futures contracts.
 - [Impermanent Loss Hedge (Antonio Furtado)](https://github.com/antoniordf/impermanent-loss-hedge): A hook to hedge against impermanent loss. This can be used to protect liquidity providers from losing money due to price fluctuations.
-- [Impermanent Loss Hedge (Makemake)](https://github.com/makemake-kbo/sdhasidhas): Another hook to automatically hedge impermanent loss with options.
-- [Median Price Oracle](https://github.com/saucepoint/median-oracles): Provides a more accurate price feed. This can be done by using a variety of techniques, such as aggregating prices from multiple sources or using a median price calculation.
 - [Stop Loss Order](https://github.com/saucepoint/v4-stoploss): Allows users to place stop loss orders on their positions. This means that the position will be automatically closed if the price reaches a certain level.
 - [Liquidity Provider Fee Rebate](https://github.com/jdubpark/Uniswap-Hooks/blob/main/contracts/LPFeeRebateHook.sol): Allows liquidity providers (LPs) to receive a rebate on the fees they pay when swapping tokens on a pool. This can be used to incentivize LPs to provide liquidity to the pool.
 - [On-Chain Take Profit Order](https://github.com/LearnWeb3DAO/uniswap-v4-take-profits-hook): Allows users to place automatically executing on-chain "take-profit" orders. This means that the position will be automatically closed if the price reaches a certain level.
@@ -117,6 +113,14 @@ _A collection of hooks from Uniswap and community developers._
 - [UniV4 CCLP Hook](https://ethglobal.com/showcase/univ4-cclp-hook-zd3st) ([source](https://github.com/cesarhuret/ethglobalnyc)): Uses Uniswap V4 to create a hook that seamlessly transfers the user's LP to another chain, without them having to worry about bridging or anything else.
 - [TimeConcentrate](https://ethglobal.com/showcase/timeconcentrate-c58h4) ([source](https://github.com/MarcusWentz/time_concentrate)): Concentrates liquidity along price, and now time, with Uni v4 hooks to mitigate the times MEV bots attack. Hook that modifies positions based on time of MEV attacks.
 - [Arb Controller](https://ethglobal.com/showcase/arb-controller-dw3so) ([source](https://github.com/ziyincody/arbitrage-controller-ETHNYC)): A Uniswap v4 hook that sets dynamic fee for a pool based on the price movements. The dynamic fee partially discriminates informed order flow from arbitrageurs.
+
+**[EthCC Paris Hookathon 2023](https://twitter.com/UniswapFND/status/1683983199872122881)**
+
+- [Median Price Oracle](https://github.com/saucepoint/median-oracles): An initial exploration of a median price oracle that is more resistant to manipulation than TWAP. It includes an approximation algorithm where a running median can provide substantial gas efficiency on both read and write.
+- [Impermanent Loss Hedge (Makemake)](https://github.com/makemake-kbo/sdhasidhas): A hook to explore ways to hedge impermanent loss for LPs by buying out of the money call options on the underlying asset. When liquidity is added to the pool, the hook is called & executes a purchase of the req. amount of calls in Lyra options protocol.
+- [Hedge](https://github.com/vanillaHill/hedge): Risk management strategies using hooks. The project showcases how hedging mechanisms can mitigate price volatility risks in a trader's portfolio.
+- [Trading Hours](https://github.com/bennoprice/univ4/blob/main/src/TradingHours.sol): Traditional market opening/closing hours to a Uniswap v4 pool using a beforeSwap hook. Users are only able to trade between 8am and 4pm.
+- [Dynamic Fee](https://github.com/ArrakisFinance/uni-v4-playground/blob/main/contracts/ArrakisHookV1.sol): Adjusts with the goal of cutting LP losses to arbitrageurs, and an implementation of a shared fungible liquidity position (similar to a vault).
 
 ## 🛠 Tools
 
