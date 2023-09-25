@@ -14,6 +14,7 @@ Special thanks to Uniswap Foundation for [including this resource in the officia
   - [📜 Examples](#-examples)
     - [From Uniswap](#from-uniswap)
     - [From the Community](#from-the-community)
+    - [From the Hackthon](#from-the-hackthon)
   - [🛠 Tools](#-tools)
   - [📐 Templates](#-templates)
   - [🎓 Tutorials](#-tutorials)
@@ -102,6 +103,20 @@ _A collection of hooks from Uniswap and community developers._
 - [Magna Carta](https://github.com/tarunsintern/magna-carta): A hook for enforcing a verifiable sequencing rule. This can be used to prevent front-running and other types of manipulation.
 - [Uni LBP](https://github.com/kadenzipfel/uni-lbp): A capital-efficient Uniswap v4 liquidity bootstrapping pool (LBP) hooks contract. This can be used to allow tokens to be sold at a linearly decreasing price.
 - [UniKits Hooks](https://github.com/UniKits-Dev/uniswap-v4-unikits-hooks): A series of hooks and tools to enhance the functionality of Uniswap v4 Hooks. These can be used to provide v4 pools with basic functions such as auth to swap, and swap to share.
+
+### From the Hackthon
+
+**[ETHGlobal New York 2023](https://ethglobal.com/showcase?events=newyork2023)**
+
+- [MEVictim Rebate](https://ethglobal.com/showcase/mevictim-rebate-qsxak) ([source](https://github.com/mliuuu/ETHNYC23/)): Allows you to identify MEV victims using historical onchain data which then airdrops the victim a token to use in a Uniswap v4 gated pool on where they can get a rebate when providing liquidity.
+- [Fair Trade](https://ethglobal.com/showcase/fair-trade-yrg2f) ([source](https://github.com/batoulalkarim/copy-trade-nyc-mb)): A Uniswap v4 pool that launches tokens with safety guarantees for future token holders and traders. Designed to be a hook to be added to pools to protect against shit-coin ruggings.
+- [NFT Pool Party](https://ethglobal.com/showcase/nft-pool-party-snybc) ([source](https://github.com/nftpoolparty/monorepo)): Enables you to launch your NFT collection on Uniswap & earn ongoing income streams from royalties (again). Used v4 Hooks to create NFT IDOs and gave the power back to the creators to control their royalties.
+- [ReCentFi](https://ethglobal.com/showcase/recentifi-k7jan) ([source](https://github.com/KaiStryker/ReCentiFi)): An AI-powered platform to reward eco-friendly action. Users pick up trash, upload videos for verification, and gain exclusive access to ‘clean’ Uniswap pools with verification gated hooks added to them.
+- [0xY](https://ethglobal.com/showcase/0xy-bjtsk) ([source](https://github.com/NPrada/oxy-hack-fe)): Borrowing protocol offering put-protected term loans that protect against price liquidation. A Uniswap V4 pool implements custom hooks that lends to the protocol whenever the price moves out of range for a user's LP.
+- [Axiom LP Mgmt](https://ethglobal.com/showcase/axiom-lp-mgmt-1h3z2) ([source](https://github.com/saucepoint/v4-axiom-rebalancing/)): A Uniswap v4 hook and position manager to enable trustless LP modification with Axiom. Modifies positions on Uniswap pools automatically so that LPs can passively make better returns.
+- [UniV4 CCLP Hook](https://ethglobal.com/showcase/univ4-cclp-hook-zd3st) ([source](https://github.com/cesarhuret/ethglobalnyc)): Uses Uniswap V4 to create a hook that seamlessly transfers the user's LP to another chain, without them having to worry about bridging or anything else.
+- [TimeConcentrate](https://ethglobal.com/showcase/timeconcentrate-c58h4) ([source](https://github.com/MarcusWentz/time_concentrate)): Concentrates liquidity along price, and now time, with Uni v4 hooks to mitigate the times MEV bots attack. Hook that modifies positions based on time of MEV attacks.
+- [Arb Controller](https://ethglobal.com/showcase/arb-controller-dw3so) ([source](https://github.com/ziyincody/arbitrage-controller-ETHNYC)): A Uniswap v4 hook that sets dynamic fee for a pool based on the price movements. The dynamic fee partially discriminates informed order flow from arbitrageurs.
 
 ## 🛠 Tools
 
