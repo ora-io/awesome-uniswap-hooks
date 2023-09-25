@@ -32,11 +32,9 @@ _These resources will help you get started with Uniswap v4 hooks._
 
 - [Uniswap's v4 Announcement](https://blog.uniswap.org/uniswap-v4): Official announcement article from Uniswap detailing their vision for v4, including the introduction of hooks.
 - [Uniswap v4 Developer Documents](https://docs.uniswapfoundation.org/): Official V4 Developer Documents from Uniswap Foundation, covering topics including how developer would begin to start building out hooks on local testnets in order to start testing out hook designs.
-- [Uniswap v4: A New Era For Defi](https://uniswapfoundation.mirror.xyz/5elfLDeU-AMehTtnwAswhc3p2NjF3_BWDtji6BEzh_0): Article from Uniswap discussing their excitement for the developing of the ecosystem -- highlighting hooks' ability to attract liquidity, design new interfaces, and bridge DeFi into the mainstream.
 - [Core smart contracts of Uniswap v4](https://github.com/Uniswap/v4-core): The core smart contracts of Uniswap v4, highlighting `v4-core`'s singleton-style architecture, the management of all pool state in `PoolManager.sol`, and use of hook contracts to implement callbacks in the lifecycle of pool actions.
 - [Peripheral smart contracts for interacting with Uniswap v4](https://github.com/Uniswap/v4-periphery): `v4-periphery` hosts the logic that builds on top of the core pool logic like hook contracts, position managers, and even possibly libraries needed for integrations. It is still under development and is being updated as the v4 ecosystem matures. Includes the `BaseHook` contract that can be used as a base for creating custom hooks.
 - [Draft Technical Whitepaper for Uniswap v4 Core](https://github.com/Uniswap/v4-core/blob/main/whitepaper-v4-draft.pdf): Covers an introduction to Uniswap v4, hooks, singleton and flash accounting, native ETH, and other notable features.
-- [Contribution Guidelines for Uniswap v4 Core](https://github.com/Uniswap/v4-core/blob/main/CONTRIBUTING.md): Uniswap has released the draft code so that v4 can be built in public with community contribution. You may contribute by opening an issue, resolving an issue, and reviewing open PRs.
 
 ## 🔄 Lifecycle
 
@@ -172,9 +170,9 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 
 - [Loss Versus Rebalancing Minimization](https://ethresear.ch/t/lvr-minimization-in-uniswap-v4/15900): Research funded from the Uniswap Foundation Grants Program regarding cross-domain MEV sources within the DEX ecosystem, specifically on loss-versus-rebalancing (LVR).
 - [Oracleless Lending Protocol](https://blog.instadapp.io/oracleless-lending-protocol-on-uniswap-v4/): Creating a new lending protocol offering features like flexible liquidation thresholds, oracle-free operations, and enhanced earnings for liquidity providers.
-- [Torando Cash on Hooks](https://twitter.com/witconomist/status/1694859874080076180?s=20): A Tornado-like system, utilizing all of Uniswap's liquidity as its pool.
+- [Torando Cash on Hooks](https://twitter.com/witconomist/status/1694859874080076180): A Tornado-like system, utilizing all of Uniswap's liquidity as its pool.
 - [Hook Safety as a Service](https://twitter.com/xin__wan/status/1695258362298933499): Insuring safety of a hook up to a certain amount.
-- [Gasless Swaps](https://twitter.com/dhruvinparikh_/status/1691441830410461184?s=20): Incentivizing traders via a non-toxic MEV executer with gasless swaps.
+- [Gasless Swaps](https://twitter.com/dhruvinparikh_/status/1691441830410461184): Incentivizing traders via a non-toxic MEV executer with gasless swaps.
 - [Hook to Facilitate Keeper Activity](https://twitter.com/saucepoint/status/1686070429503676416): An intuition on using v4 hooks to facilitate keeper activity.
 
 ## 👀 See Also
@@ -182,9 +180,8 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 _Check out these related resources._
 
 - [Uniswap Hooks Discussion Board](https://hooks.uniswapfoundation.org): A location to share skills, knowledge, and interests through ongoing conversation regarding Uniswap v4 hooks.
-- [StackExchange: Hooks, returning the function selector](https://ethereum.stackexchange.com/questions/151985/why-do-we-need-to-check-function-return-right-selector): Explanation of why we return the function selector to signal successful function call with hooks (for example, deciding not to accept a donation).
-- [Uniswap Twitter thread on the first ever Hookathon](https://twitter.com/UniswapFND/status/1683983199872122881?s=20): Highlights of the hookathon (hackthon for Uniswap hooks) including the r hackers (hookers) and the hooks the built.
-- [Uniswap Twitter thread on TWAMM](https://twitter.com/Uniswap/status/1674452938683473921?s=20): 6-tweet thread on the use case for time weighted automatic market makers.
+- [Uniswap v4: A New Era For Defi](https://uniswapfoundation.mirror.xyz/5elfLDeU-AMehTtnwAswhc3p2NjF3_BWDtji6BEzh_0): Article from Uniswap discussing their excitement for the developing of the ecosystem -- highlighting hooks' ability to attract liquidity, design new interfaces, and bridge DeFi into the mainstream.
+- [Contribution Guidelines for Uniswap v4 Core](https://github.com/Uniswap/v4-core/blob/main/CONTRIBUTING.md): Uniswap has released the draft code so that v4 can be built in public with community contribution. You may contribute by opening an issue, resolving an issue, and reviewing open PRs.
 
 ## 🙏 Thanks
 
