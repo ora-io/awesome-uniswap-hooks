@@ -111,6 +111,8 @@ _A collection of hooks from Uniswap and community developers._
 - [UniV4 CCLP Hook](https://ethglobal.com/showcase/univ4-cclp-hook-zd3st) ([source](https://github.com/cesarhuret/ethglobalnyc)): Uses Uniswap V4 to create a hook that seamlessly transfers the user's LP to another chain, without them having to worry about bridging or anything else.
 - [TimeConcentrate](https://ethglobal.com/showcase/timeconcentrate-c58h4) ([source](https://github.com/MarcusWentz/time_concentrate)): Concentrates liquidity along price, and now time, with Uni v4 hooks to mitigate the times MEV bots attack. Hook that modifies positions based on time of MEV attacks.
 - [Arb Controller](https://ethglobal.com/showcase/arb-controller-dw3so) ([source](https://github.com/ziyincody/arbitrage-controller-ETHNYC)): A Uniswap v4 hook that sets dynamic fee for a pool based on the price movements. The dynamic fee partially discriminates informed order flow from arbitrageurs.
+- [NYCV4Hermit](https://ethglobal.com/showcase/nycv4hermit-dj0um) ([source](https://github.com/djm07073/ETHNewYork-Hook-LAB)): Three libraries of tooling developed for Liquidity Sniping (Liqiudity Snipping Blocking Hook), V4 Math, and a V4 Quoter Library.
+- [Lime](https://ethglobal.com/showcase/lime-qczie) ([source](https://github.com/kohshiba/univ4-offchain-pricing)): An active Uniswap V4 hook manager which allows fillers or market makers to set price and fill Intent / RFQ based swap requests.
 
 **[EthCC Paris Hookathon 2023](https://twitter.com/UniswapFND/status/1683983199872122881)**
 
