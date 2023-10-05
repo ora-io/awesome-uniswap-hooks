@@ -141,6 +141,7 @@ _These are templates for writing Uniswap V4 Hooks._
 - [Arrakis' Playground](https://github.com/ArrakisFinance/uni-v4-playground): This playground is a web-based application that allows you to interact with hooks. You can use this playground to test your own hooks or to learn more about how hooks work. This playground can be used to test the functionality of your hooks by simulating swaps.
 - [Lucas Martin Calderon's Template](https://github.com/LucasMartinCalderon/Uniswap): This repository contains a template for a hook that was created for the ETHGlobal Hackathon. This template can be used to create a custom hook that can be used to provide liquidity to a particular pool.
 - [Nick Addison's Template](https://github.com/naddison36/uniswap-v4-hooks): This repository contains a template for a hook that includes a factory to mine addresses and trace diagrams. This template can be used to create a custom hook that can be used to mine addresses and generate trace diagrams.
+- [Quantum3 Labs's Scaffold](https://github.com/Quantum3-Labs/Scaffold-UniswapV4): A boilerplate to use Uniswap v4 hooks with scaffold eth.
 
 ## 🎓 Tutorials
 
