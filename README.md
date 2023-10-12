@@ -98,6 +98,10 @@ _A collection of hooks from Uniswap and community developers._
 - [Uni LBP](https://github.com/kadenzipfel/uni-lbp): A capital-efficient Uniswap v4 liquidity bootstrapping pool (LBP) hooks contract. This can be used to allow tokens to be sold at a linearly decreasing price.
 - [UniKits Hooks](https://github.com/UniKits-Dev/uniswap-v4-unikits-hooks): A series of hooks and tools to enhance the functionality of Uniswap v4 Hooks. These can be used to provide v4 pools with basic functions such as auth to swap, and swap to share.
 - [Automated Buyback Hook](https://github.com/atj3097/buyback-hook): A hook that enables protocols to implement automated token buybacks from their treasury when price drops below a target threshold in a Uniswap Pool. This enables automated price support during declines and volatility.
+- [Privacy Enhancing Hook](https://github.com/atj3097/privacy-hook-univ4): A hook for Uniswap v4 that combines the privacy features of Tornado Cash with the efficiency and verifiability of Merkle trees/ZK Snarks. This can enhance the privacy and security of Uniswap v4 pools by breaking the on-chain link between depositors and withdrawal addresses, while also providing a verifiable proof of inclusion.
+- [Minimize LVR Hook](https://github.com/ArrakisFinance/minimize-lvr-hook-poc): A hook for implementing the POC of research idea on loss-versus-rebalancing. This can reduce LVR and increase LP returns.
+- [Bungi](https://github.com/saucepoint/bungi): An experimental Liquidity Position Manager for Uniswap v4. This can be an advanced LP router with more features than the baseline [PoolModifyPositionTest](https://github.com/Uniswap/v4-core/blob/main/contracts/test/PoolModifyPositionTest.sol).
+- [Captain Hooks](https://github.com/mrhouzlane/CaptainHooks): A series of Uniswap v4 custom hooks built with Scaffold ETH 2. This can be used for targeting traditional fiannce entities, offering custom pools with dynamic fee options and other functionnalities.
 
 ### From the Hackthon
 
@@ -150,6 +154,7 @@ _Empower your learning curve with these insightful tutorials._
 - [LearnWeb3: On-chain "take-profit" orders hook](https://learnweb3.io/lessons/uniswap-v4-hooks-create-a-fully-on-chain-take-profit-orders-hook-on-uniswap-v4/): This tutorial from LearnWeb3 delves into the intricacies of Uniswap v4 hooks. The lesson guides users through building a hook for placing 'take-profit' positions, exemplified by the scenario where a user in an ETH/DAI pool can set an automatic order to sell all their ETH when the price reaches a determined price.
 - [Solidity Developer: Integrate Uniswap v4 and create a custom hook](https://soliditydeveloper.com/uniswap4): This tutorial provides a deep dive, showcasing the nuanced mechanisms for executing fees, the importance of the Ethereum address prefix for the hooks contract, and use of the CREATE2 opcode to deploy contracts with deterministic addresses. A tangible example of using hooks to enable limit orders is presented.
 - [James Bachini: Introduction to Hooks](https://jamesbachini.com/uniswap-v4-hooks/): This tutorial showcases using the "beforeSwap" hook function to introduce custom actions during a swap.
+- [Saucepoint: Getting Started with the `v4-template`](https://uniswaphooks.com/blog/getting-started-with-v4-template): This tutorial provides a step-by-step guide to using the `v4-template` to create a custom hook, with testing and trouble-shooting tips.
 
 ## 💡 Articles
 
@@ -178,6 +183,7 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 - [Hook Safety as a Service](https://twitter.com/xin__wan/status/1695258362298933499): Insuring safety of a hook up to a certain amount.
 - [Gasless Swaps](https://twitter.com/dhruvinparikh_/status/1691441830410461184): Incentivizing traders via a non-toxic MEV executer with gasless swaps.
 - [Hook to Facilitate Keeper Activity](https://twitter.com/saucepoint/status/1686070429503676416): An intuition on using v4 hooks to facilitate keeper activity.
+- [What bad hooks look like](https://uniswap.notion.site/Research-What-bad-hooks-look-like-b10256c445904111914eb3b01fb4ec53): An RFP by Uniswap Foundation inviteing for proposals from academic researchers and/or solidity auditors to explore the "malicious design space" of hooks in solidity, especially how they can compromise systems and create safety failures.
 
 ## 👀 See Also
 
@@ -195,3 +201,5 @@ _Thanks to these contributors for making this list possible._
 - [naddison36](https://github.com/naddison36)
 - [0xV4L3NT1N3](https://github.com/0xV4L3NT1N3)
 - [johnsonstephan](https://github.com/johnsonstephan)
+- [UniswapHooks](https://uniswaphooks.vercel.app/)
+- [UniV4 Hook Dojo](https://t.me/+m35oO7qzqu02NTgx)
