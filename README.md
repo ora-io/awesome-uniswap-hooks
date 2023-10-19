@@ -2,7 +2,7 @@
 
 A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hooks](https://github.com/Uniswap/v4-periphery/tree/main/contracts/hooks) resources.
 
-Special thanks to Uniswap Foundation for [including this resource in the official doc](https://web.archive.org/web/20230915081852/https://docs.uniswapfoundation.org/hooks/hook-examples)!
+Special thanks to Uniswap Foundation for [including this resource in the official doc](https://web.archive.org/web/20230915081852/https://docs.uniswapfoundation.org/hooks/hook-examples) and [mentioning this work in the blog](https://web.archive.org/web/20231019143600/https://blog.uniswap.org/uniswap-v4-community-contributions)!
 
 ## 📑 Table of Contents
 
@@ -165,6 +165,7 @@ _Read these articles to gain a deeper understanding of Uniswap v4 hooks._
 - [A Saga of Hooks, Bidding Farewell to Fork Swap](https://medium.com/ybbcapital/uniswap-v4-a-saga-of-hooks-bidding-farewell-to-fork-swap-c653ba9ffce4): The v4 innovation, introduction to hooks, action hooks, and enabling custom oracle and distribution of internalized MEV to LPs.
 - [Threat modeling for secure integration](https://composable-security.com/blog/uniswap-v-4-threat-modeling-for-secure-integration/): Learn what to watch out for and what to take care of when integrating with Uniswap v4. Section 4.4.1 reviews potential issues with hooks, including upgradeable hooks, denial of service attacks, sandwich attacks, and access control.
 - [SharkTeam's Best Security Practices for UniswapV4 Hooks](https://app.chainaegis.com/home/news/detail?contentId=347): Covers differences between v4 and v3 with examples of best security practices for hooks.
+- [Community Contributions to Uniswap v4](https://blog.uniswap.org/uniswap-v4-community-contributions): Talks about the community contributions to Uniswap v4, including ideas, implementations, commits, and so on.
 
 ## 🍿 Videos
 
