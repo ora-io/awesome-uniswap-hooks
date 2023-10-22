@@ -104,6 +104,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Captain Hooks](https://github.com/mrhouzlane/CaptainHooks): A series of Uniswap v4 custom hooks built with Scaffold ETH 2. This can be used for targeting traditional fiannce entities, offering custom pools with dynamic fee options and other functionnalities.
 - [Anti-KYC](https://github.com/thegeronimo/Uniswap-Hooks/blob/main/contracts/AntiKYCHook.sol): A hook that bans KYC-ed users. This can be used to provide alternative liquidity pools for users who do not want to go through KYC.
 - [WID KYC](https://github.com/Shivamycodee/WID-KYC-Hook): A hook that uses World ID to perform KYC checks. This can be used to provide specific liquidity pools for users who have registered on the World ID of World Coin.
+- [Protecc](https://github.com/batoulalkarim/protecc): A hook that allows developers and builders to create liquidity pools that automatically leverage Spark Protocol's sDAI and SparkLend. This can enable liquidity providers to earn yield on their liquidity if the pools are created with ETH or DAI.
 
 ### From the Hackthon
 
