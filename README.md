@@ -168,6 +168,7 @@ _Read these articles to gain a deeper understanding of Uniswap v4 hooks._
 - [Threat modeling for secure integration](https://composable-security.com/blog/uniswap-v-4-threat-modeling-for-secure-integration/): Learn what to watch out for and what to take care of when integrating with Uniswap v4. Section 4.4.1 reviews potential issues with hooks, including upgradeable hooks, denial of service attacks, sandwich attacks, and access control.
 - [SharkTeam's Best Security Practices for UniswapV4 Hooks](https://app.chainaegis.com/home/news/detail?contentId=347): Covers differences between v4 and v3 with examples of best security practices for hooks.
 - [Community Contributions to Uniswap v4](https://blog.uniswap.org/uniswap-v4-community-contributions): Talks about the community contributions to Uniswap v4, including ideas, implementations, commits, and so on.
+- [Uniswap V4: Exploring Hooks, KYC, and Enhanced Features](https://medium.com/@diamondprotocol/uniswap-v4-exploring-hooks-kyc-and-enhanced-features-d53e77af850b): Explores the buzz around Uniswap V4, and the reason why this development is intriguing.
 
 ## 🍿 Videos
 
