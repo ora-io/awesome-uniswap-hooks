@@ -246,3 +246,4 @@ _Thanks to these contributors for making this list possible._
 - [johnsonstephan](https://github.com/johnsonstephan)
 - [UniswapHooks](https://uniswaphooks.vercel.app/)
 - [UniV4 Hook Dojo](https://t.me/+m35oO7qzqu02NTgx)
+- [0xaaiden](https://github.com/0xaaiden)
