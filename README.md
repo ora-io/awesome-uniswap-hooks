@@ -154,7 +154,8 @@ _These are templates for writing Uniswap V4 Hooks._
 
 ## 🔗 Supported Chains
 
-Below is a list of chains with their respective `chainId` values and an example `poolAddress` where Uniswap v4 liquidity pools can be found.
+_A list of chains with their respective `chainId` values and an example `poolAddress` where Uniswap v4 liquidity pools can be found._
+
 - **Conduit Testnet**
   - ChainID: `111`
   - Currency: `ETH`
