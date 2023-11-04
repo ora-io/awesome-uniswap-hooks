@@ -17,6 +17,7 @@ Special thanks to Uniswap Foundation for [including this resource in the officia
     - [From the Hackthon](#from-the-hackthon)
   - [🛠 Tools](#-tools)
   - [📐 Templates](#-templates)
+  - [🔗 Supported Chains](#-supported-chains)
   - [🎓 Tutorials](#-tutorials)
   - [💡 Articles](#-articles)
   - [🍿 Videos](#-videos)
@@ -151,6 +152,41 @@ _These are templates for writing Uniswap V4 Hooks._
 - [Nick Addison's Template](https://github.com/naddison36/uniswap-v4-hooks): This repository contains a template for a hook that includes a factory to mine addresses and trace diagrams. This template can be used to create a custom hook that can be used to mine addresses and generate trace diagrams.
 - [Quantum3 Labs's Scaffold](https://github.com/Quantum3-Labs/Scaffold-UniswapV4): A boilerplate to use Uniswap v4 hooks with scaffold eth.
 
+## 🔗 Supported Chains
+
+_A list of chains with their respective `chainId` values and an example `poolAddress` where Uniswap v4 liquidity pools can be found._
+
+- **Conduit Testnet**
+  - ChainID: `111`
+  - Currency: `ETH`
+  - PoolManager: `0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9`
+
+- **Arbitrum Goerli**
+  - ChainID: `421613`
+  - Currency: `AGOR`
+  - PoolManager: `0x4B8c70cF3e595D963cD4A33627d4Ba2718fD706F`
+
+- **Base Goerli Testnet**
+  - ChainID: `84531`
+  - Currency: `ETH`
+  - PoolManager: `0x693B1C9fBb10bA64F0d97AE042Ee32aE9Eb5610D`
+
+- **Ethereum Goerli Testnet**
+  - ChainID: `5`
+  - Currency: `ETH`
+  - PoolManager: `0x862Fa52D0c8Bca8fBCB5213C9FEbC49c87A52912`
+
+- **Polygon Mumbai Testnet**
+  - ChainID: `80001`
+  - Currency: `MATIC`
+  - PoolManager: `0x5ff8780e4d20e75b8599a9c4528d8ac9682e5c89`
+
+- **Scroll Sepolia Testnet**
+  - ChainID: `534351`
+  - Currency: `ETH`
+  - PoolManager: `0xA449635FaAA6b5a45a568fCe217Bb7921c992285`
+
+
 ## 🎓 Tutorials
 
 _Empower your learning curve with these insightful tutorials._
@@ -210,3 +246,4 @@ _Thanks to these contributors for making this list possible._
 - [johnsonstephan](https://github.com/johnsonstephan)
 - [UniswapHooks](https://uniswaphooks.vercel.app/)
 - [UniV4 Hook Dojo](https://t.me/+m35oO7qzqu02NTgx)
+- [0xaaiden](https://github.com/0xaaiden)
