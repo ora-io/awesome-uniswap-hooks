@@ -13,8 +13,8 @@ Special thanks to Uniswap Foundation for [including this resource in the officia
   - [🔧 Functionalities](#-functionalities)
   - [📜 Examples](#-examples)
     - [From Uniswap](#from-uniswap)
-    - [From the Community](#from-the-community)
-    - [From the Hackthon](#from-the-hackthon)
+    - [From Community](#from-community)
+    - [From Hackthon](#from-hackthon)
   - [🛠 Tools](#-tools)
   - [📐 Templates](#-templates)
   - [🔗 Supported Chains](#-supported-chains)
@@ -79,7 +79,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Volatility Oracle](https://github.com/Uniswap/v4-periphery/blob/main/contracts/hooks/examples/VolatilityOracle.sol): A volatility oracle is a contract that provides information about the volatility of an asset. This information can be used to price options and other derivatives.
 - [Truncated Oracle](https://github.com/Uniswap/v4-periphery/blob/trunc-oracle/contracts/hooks/TruncGeoOracle.sol): A truncated oracle is an onchain price oracle that records the price of an asset in a Uniswap liquidity pool using the geometric mean formula. See also [Uniswap's research blog post on truncated oracles](https://blog.uniswap.org/uniswap-v4-truncated-oracle-hook).
 
-### From the Community
+### From Community
 
 - [Multi-Sig](https://github.com/atj3097/mfa-multisig-hook-v4/tree/main): Requires multiple signatures for certain pool actions, such as adding or removing liquidity. This can be used to add an extra layer of security to a pool.
 - [Whitelist](https://github.com/atj3097/whitelist-hook): Restricts pool participation to a whitelist of approved addresses. This can be used to prevent certain people from participating in a pool, such as people who have been banned from the platform or people who are considered to be high-risk traders.
@@ -107,8 +107,9 @@ _A collection of hooks from Uniswap and community developers._
 - [WID KYC](https://github.com/Shivamycodee/WID-KYC-Hook): A hook that uses World ID to perform KYC checks. This can be used to provide specific liquidity pools for users who have registered on the World ID of World Coin.
 - [Protecc](https://github.com/batoulalkarim/protecc): A hook that allows developers and builders to create liquidity pools that automatically leverage Spark Protocol's sDAI and SparkLend. This can enable liquidity providers to earn yield on their liquidity if the pools are created with ETH or DAI.
 - [Volatility Fee Hook](https://github.com/0xrhsmt/uniswapv4-volatility-fee-hook): A dynamic fee hook based on volatility to mitigate large impermanent losses on high volatility assets. This can be used to increases liquidity, which also benefits users.
+- [Ref Fee Hook](https://github.com/mergd/ref-fee-hook): A hook that takes referral fees for swaps and liquidity adds (if specified). This can be used to incentivize users to refer others to the pool.
 
-### From the Hackthon
+### From Hackthon
 
 **[ETHGlobal New York 2023](https://ethglobal.com/showcase?events=newyork2023)**
 
