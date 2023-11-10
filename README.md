@@ -108,7 +108,8 @@ _A collection of hooks from Uniswap and community developers._
 - [Protecc](https://github.com/batoulalkarim/protecc): A hook that allows developers and builders to create liquidity pools that automatically leverage Spark Protocol's sDAI and SparkLend. This can enable liquidity providers to earn yield on their liquidity if the pools are created with ETH or DAI.
 - [Volatility Fee Hook](https://github.com/0xrhsmt/uniswapv4-volatility-fee-hook): A dynamic fee hook based on volatility to mitigate large impermanent losses on high volatility assets. This can be used to increases liquidity, which also benefits users.
 - [Ref Fee Hook](https://github.com/mergd/ref-fee-hook): A hook that takes referral fees for swaps and liquidity adds (if specified). This can be used to incentivize users to refer others to the pool.
-- [Identity with Civic](https://github.com/civicteam/uniswap-v4-hook): A hook that allows traders with a [Civic Pass](https://www.civic.com/) - used for KYC, compliance, sybil resistance and more.
+- [Identity with Civic](https://github.com/civicteam/uniswap-v4-hook): A hook that allows traders with a [Civic Pass](https://www.civic.com/). This can be used for KYC, compliance, sybil resistance and more.
+- [AMM-Orderbook](https://github.com/standardweb3/standard-2.0-contracts/tree/main/contracts/uniswapv4) : A Uniswap v4 hook blending the immediacy of AMM systems with the detail-oriented nature of orderbooks. This can enhance DeFi trade efficiency and market fluidity.
 
 ### From Hackthon
 
@@ -250,3 +251,4 @@ _Thanks to these contributors for making this list possible._
 - [UniswapHooks](https://uniswaphooks.vercel.app/)
 - [UniV4 Hook Dojo](https://t.me/+m35oO7qzqu02NTgx)
 - [0xaaiden](https://github.com/0xaaiden)
+- [dankelleher](https://github.com/dankelleher)
