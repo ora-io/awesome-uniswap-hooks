@@ -109,6 +109,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Volatility Fee Hook](https://github.com/0xrhsmt/uniswapv4-volatility-fee-hook): A dynamic fee hook based on volatility to mitigate large impermanent losses on high volatility assets. This can be used to increases liquidity, which also benefits users.
 - [Ref Fee Hook](https://github.com/mergd/ref-fee-hook): A hook that takes referral fees for swaps and liquidity adds (if specified). This can be used to incentivize users to refer others to the pool.
 - [Identity with Civic](https://github.com/civicteam/uniswap-v4-hook): A hook that allows traders with a [Civic Pass](https://www.civic.com/). This can be used for KYC, compliance, sybil resistance and more.
+- [AMM-Orderbook](https://github.com/standardweb3/standard-2.0-contracts/tree/main/contracts/uniswapv4) : A Uniswap v4 hook blending the immediacy of AMM systems with the detail-oriented nature of orderbooks. This can enhance DeFi trade efficiency and market fluidity.
 
 ### From Hackthon
 
