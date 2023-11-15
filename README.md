@@ -105,13 +105,19 @@ _A collection of hooks from Uniswap and community developers._
 - [Captain Hooks](https://github.com/mrhouzlane/CaptainHooks): A series of Uniswap v4 custom hooks built with Scaffold ETH 2. This can be used for targeting traditional fiannce entities, offering custom pools with dynamic fee options and other functionnalities.
 - [Anti-KYC](https://github.com/thegeronimo/Uniswap-Hooks/blob/main/contracts/AntiKYCHook.sol): A hook that bans KYC-ed users. This can be used to provide alternative liquidity pools for users who do not want to go through KYC.
 - [WID KYC](https://github.com/Shivamycodee/WID-KYC-Hook): A hook that uses World ID to perform KYC checks. This can be used to provide specific liquidity pools for users who have registered on the World ID of World Coin.
-- [Protecc](https://github.com/batoulalkarim/protecc): A hook that allows developers and builders to create liquidity pools that automatically leverage Spark Protocol's sDAI and SparkLend. This can enable liquidity providers to earn yield on their liquidity if the pools are created with ETH or DAI.
 - [Volatility Fee Hook](https://github.com/0xrhsmt/uniswapv4-volatility-fee-hook): A dynamic fee hook based on volatility to mitigate large impermanent losses on high volatility assets. This can be used to increases liquidity, which also benefits users.
 - [Ref Fee Hook](https://github.com/mergd/ref-fee-hook): A hook that takes referral fees for swaps and liquidity adds (if specified). This can be used to incentivize users to refer others to the pool.
 - [Identity with Civic](https://github.com/civicteam/uniswap-v4-hook): A hook that allows traders with a [Civic Pass](https://www.civic.com/). This can be used for KYC, compliance, sybil resistance and more.
-- [AMM-Orderbook](https://github.com/standardweb3/standard-2.0-contracts/tree/main/contracts/uniswapv4) : A Uniswap v4 hook blending the immediacy of AMM systems with the detail-oriented nature of orderbooks. This can enhance DeFi trade efficiency and market fluidity.
 
 ### From Hackthon
+
+**[ETHOnline 2023](https://ethglobal.com/showcase/page/1?events=ethonline2023)**
+
+- [Perks](https://ethglobal.com/showcase/perks-gv9d1) ([source](https://github.com/aloksahay/perksApp)): A mobile app that redefines brand loyalty. Users earn rewards across various brands while token pools are shielded from market dumps via a Uniswap hook.
+- [Delegated Liquidity](https://ethglobal.com/showcase/delegated-liquidity-pas1o) ([source](https://github.com/ScopeLift/delegated-liquidity)): Empowers token delegates to vote on governance proposals without missing out on providing liquidity.
+- [HOOK Finance](https://ethglobal.com/showcase/hook-finance-w29rb) ([source](https://github.com/hook-finance/hook-finance-hook)) : A hook that enables perpetual trading as a Uniswap V4 Hook! An innovative way to introduce perpetual markets to V4.
+- [Protecc](https://ethglobal.com/showcase/protecc-w9gak) ([source](https://github.com/batoulalkarim/protecc)): Allows developers and builders to create liquidity pools that automatically leverage Spark Protocol's sDAI and SparkLend.
+- [Orderbook Hook](https://ethglobal.com/showcase/orderbook-hook-vsmt9) ([source](https://github.com/standardweb3/standard-2.0-contracts/tree/main/contracts/uniswapv4)): A Uniswap v4 hook blending the immediacy of AMM systems with the detail-oriented nature of orderbooks.
 
 **[ETHGlobal New York 2023](https://ethglobal.com/showcase?events=newyork2023)**
 
@@ -148,7 +154,7 @@ _Utilize these tools to boost your development process._
 
 _These are templates for writing Uniswap V4 Hooks._
 
-- [Saucepoint's Template](https://github.com/saucepoint/v4-template): This template repository provides a starting point for writing Uniswap V4 hooks. It includes the necessary files and contracts to get started. This template can be used to create a custom hook that can be used to execute arbitrary code on every swap.
+- [Uniswap Foundation's Template](https://github.com/uniswapfoundation/v4-template): This template repository provides a starting point for writing Uniswap V4 hooks. It includes the necessary files and contracts to get started. This template can be used to create a custom hook that can be used to execute arbitrary code on every swap. Previously built by [saucepoint](https://github.com/saucepoint).
 - [SolidityLabs' Template](https://github.com/soliditylabs/uniswap-v4-custom-pool): Foundry-based template for developing custom pool in Uniswap v4 with hooks.
 - [Arrakis' Playground](https://github.com/ArrakisFinance/uni-v4-playground): This playground is a web-based application that allows you to interact with hooks. You can use this playground to test your own hooks or to learn more about how hooks work. This playground can be used to test the functionality of your hooks by simulating swaps.
 - [Lucas Martin Calderon's Template](https://github.com/LucasMartinCalderon/Uniswap): This repository contains a template for a hook that was created for the ETHGlobal Hackathon. This template can be used to create a custom hook that can be used to provide liquidity to a particular pool.
@@ -198,6 +204,7 @@ _Empower your learning curve with these insightful tutorials._
 - [Solidity Developer: Integrate Uniswap v4 and create a custom hook](https://soliditydeveloper.com/uniswap4): This tutorial provides a deep dive, showcasing the nuanced mechanisms for executing fees, the importance of the Ethereum address prefix for the hooks contract, and use of the CREATE2 opcode to deploy contracts with deterministic addresses. A tangible example of using hooks to enable limit orders is presented.
 - [James Bachini: Introduction to Hooks](https://jame11sbachini.com/uniswap-v4-hooks/): This tutorial showcases using the "beforeSwap" hook function to introduce custom actions during a swap.
 - [Saucepoint: Getting Started with the `v4-template`](https://uniswaphooks.com/blog/getting-started-with-v4-template): This tutorial provides a step-by-step guide to using the `v4-template` to create a custom hook, with testing and trouble-shooting tips.
+- [Captain Hook: Uniswap Hooks Tutorial](https://github.com/umbrellaresearch/uni-v4-hooks-tutorial): This tutorial contains 3 different proofs of concept hooks, accompanied by a tutorial blog post.
 
 ## 💡 Articles
 
