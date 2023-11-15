@@ -198,6 +198,7 @@ _Empower your learning curve with these insightful tutorials._
 - [Solidity Developer: Integrate Uniswap v4 and create a custom hook](https://soliditydeveloper.com/uniswap4): This tutorial provides a deep dive, showcasing the nuanced mechanisms for executing fees, the importance of the Ethereum address prefix for the hooks contract, and use of the CREATE2 opcode to deploy contracts with deterministic addresses. A tangible example of using hooks to enable limit orders is presented.
 - [James Bachini: Introduction to Hooks](https://jame11sbachini.com/uniswap-v4-hooks/): This tutorial showcases using the "beforeSwap" hook function to introduce custom actions during a swap.
 - [Saucepoint: Getting Started with the `v4-template`](https://uniswaphooks.com/blog/getting-started-with-v4-template): This tutorial provides a step-by-step guide to using the `v4-template` to create a custom hook, with testing and trouble-shooting tips.
+- [Captain Hook: Uniswap Hooks Tutorial](https://github.com/umbrellaresearch/uni-v4-hooks-tutorial): This tutorial contains 3 different proofs of concept hooks, accompanied by a tutorial blog post.
 
 ## 💡 Articles
 
