@@ -219,6 +219,7 @@ _Read these articles to gain a deeper understanding of Uniswap v4 hooks._
 - [Community Contributions to Uniswap v4](https://blog.uniswap.org/uniswap-v4-community-contributions): Talks about the community contributions to Uniswap v4, including ideas, implementations, commits, and so on.
 - [Uniswap V4: Exploring Hooks, KYC, and Enhanced Features](https://medium.com/@diamondprotocol/uniswap-v4-exploring-hooks-kyc-and-enhanced-features-d53e77af850b): Explores the buzz around Uniswap V4, and the reason why this development is intriguing.
 - [Thorns in the Rose: Exploring Security Risks in Uniswap v4's Novel Hook Mechanism](https://phalcon.xyz/blog/thorns-in-the-rose-exploring-security-risks-in-uniswap-v4-s-novel-hook-mechanism): Explores the threat models of Uniswap v4 hook, and discovers that 36% of the hooks in [this repository in one specific commit hash](https://github.com/fewwwww/awesome-uniswap-hooks/commit/3a0a444922f26605ec27a41929f3ced924af6075) may be vulnerable to attacks.
+- [Lethal Integration: Vulnerabilities in Hooks Due to Risky Interactions](https://phalcon.xyz/blog/lethal-integration-vulnerabilities-in-hooks-due-to-risky-interactions): Scrutinizes secure hook interaction logic from flawed access control and improper input validation perspectives.
 
 ## 🍿 Videos
 
