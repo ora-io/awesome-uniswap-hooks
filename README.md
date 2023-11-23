@@ -108,6 +108,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Volatility Fee Hook](https://github.com/0xrhsmt/uniswapv4-volatility-fee-hook): A dynamic fee hook based on volatility to mitigate large impermanent losses on high volatility assets. This can be used to increases liquidity, which also benefits users.
 - [Ref Fee Hook](https://github.com/mergd/ref-fee-hook): A hook that takes referral fees for swaps and liquidity adds (if specified). This can be used to incentivize users to refer others to the pool.
 - [Identity with Civic](https://github.com/civicteam/uniswap-v4-hook): A hook that allows traders with a [Civic Pass](https://www.civic.com/). This can be used for KYC, compliance, sybil resistance and more.
+- [Locking Liquidity Hook](https://github.com/BrokkrFinance/hooks-poc/blob/main/src/LiquidityLocking.sol): A hook that gives pool deployers a way to ensure consistent liquidity levels. This can let pool deployers create advanced features that are possible through locking liquidity. See also its [design choices](https://brokkrfinance.medium.com/locking-liquidity-hook-for-univ4-builders-perspective-44e192eefe1f).
 
 ### From Hackthon
 
