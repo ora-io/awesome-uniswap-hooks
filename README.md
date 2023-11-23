@@ -245,7 +245,6 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 
 _Check out these related resources._
 
-- [Uniswap Hooks Discussion Board](https://hooks.uniswapfoundation.org): A location to share skills, knowledge, and interests through ongoing conversation regarding Uniswap v4 hooks.
 - [Uniswap v4: A New Era For Defi](https://uniswapfoundation.mirror.xyz/5elfLDeU-AMehTtnwAswhc3p2NjF3_BWDtji6BEzh_0): Article from Uniswap discussing their excitement for the developing of the ecosystem -- highlighting hooks' ability to attract liquidity, design new interfaces, and bridge DeFi into the mainstream.
 - [Contribution Guidelines for Uniswap v4 Core](https://github.com/Uniswap/v4-core/blob/main/CONTRIBUTING.md): Uniswap has released the draft code so that v4 can be built in public with community contribution. You may contribute by opening an issue, resolving an issue, and reviewing open PRs.
 
