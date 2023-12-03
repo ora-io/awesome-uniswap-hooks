@@ -109,8 +109,15 @@ _A collection of hooks from Uniswap and community developers._
 - [Ref Fee Hook](https://github.com/mergd/ref-fee-hook): A hook that takes referral fees for swaps and liquidity adds (if specified). This can be used to incentivize users to refer others to the pool.
 - [Identity with Civic](https://github.com/civicteam/uniswap-v4-hook): A hook that allows traders with a [Civic Pass](https://www.civic.com/). This can be used for KYC, compliance, sybil resistance and more.
 - [Locking Liquidity Hook](https://github.com/BrokkrFinance/hooks-poc/blob/main/src/LiquidityLocking.sol): A hook that gives pool deployers a way to ensure consistent liquidity levels. This can let pool deployers create advanced features that are possible through locking liquidity. See also its [design choices](https://brokkrfinance.medium.com/locking-liquidity-hook-for-univ4-builders-perspective-44e192eefe1f).
+- [Attestation Hook](https://github.com/CliqueOfficial/attestation-hooks): A hook that allows for the querying of attestations from various attestation protocols. Check returned responses against preset criteria in any of the hook functions.
 
 ### From Hackthon
+
+**[ETHGlobal Istanbul 2023](https://ethglobal.com/showcase/page/1?events=ethonline2023)**
+
+- [SUClave](https://ethglobal.com/showcase/suclave-dwh4f) ([source](https://github.com/getclave/suclave-ethglobal-istanbul/)): A hook that controls initial swap access. This democratizes MEV and ensures equitable swap opportunities in liquidity pools.
+- [Toxic Fl-no](https://ethglobal.com/showcase/toxic-fl-no-qsog4) ([source](https://github.com/tredfern0/toxic-fl-no)): A dynamic fee hook, rewarding valuable participants in the ecosystem by adjusting Uniswap pool fees based on user behavior within a Suave contract, promoting equitability.
+- [Aggeragator Hook](https://ethglobal.com/showcase/aggeragator-hook-rfy6g) ([source](https://github.com/Attens1423/Aggregator-Hook)): A hook enables LPs in other DEXes to optimize their Uniswap V4 positions, streamlining liquidity management. It facilitates JIT activation for profitable ranges.
 
 **[ETHOnline 2023](https://ethglobal.com/showcase/page/1?events=ethonline2023)**
 
@@ -208,6 +215,7 @@ _Empower your learning curve with these insightful tutorials._
 - [James Bachini: Introduction to Hooks](https://jame11sbachini.com/uniswap-v4-hooks/): This tutorial showcases using the "beforeSwap" hook function to introduce custom actions during a swap.
 - [Saucepoint: Getting Started with the `v4-template`](https://uniswaphooks.com/blog/getting-started-with-v4-template): This tutorial provides a step-by-step guide to using the `v4-template` to create a custom hook, with testing and trouble-shooting tips.
 - [Captain Hook: Uniswap Hooks Tutorial](https://github.com/umbrellaresearch/uni-v4-hooks-tutorial): This tutorial contains 3 different proofs of concept hooks, accompanied by a tutorial blog post.
+- [Umbrella Research: A Deep Dive With Captain Hook (I)](https://medium.com/@umbrellaresearch/uniswap-v4-hooks-a-deep-dive-with-captain-hook-i-6be5d1677539): This tutorial shows how developers can implement role-based features within the Uniswap v4 protocol.
 
 ## 💡 Articles
 
@@ -220,6 +228,7 @@ _Read these articles to gain a deeper understanding of Uniswap v4 hooks._
 - [Uniswap V4: Exploring Hooks, KYC, and Enhanced Features](https://medium.com/@diamondprotocol/uniswap-v4-exploring-hooks-kyc-and-enhanced-features-d53e77af850b): Explores the buzz around Uniswap V4, and the reason why this development is intriguing.
 - [Thorns in the Rose: Exploring Security Risks in Uniswap v4's Novel Hook Mechanism](https://phalcon.xyz/blog/thorns-in-the-rose-exploring-security-risks-in-uniswap-v4-s-novel-hook-mechanism): Explores the threat models of Uniswap v4 hook, and discovers that 36% of the hooks in [this repository in one specific commit hash](https://github.com/fewwwww/awesome-uniswap-hooks/commit/3a0a444922f26605ec27a41929f3ced924af6075) may be vulnerable to attacks.
 - [Lethal Integration: Vulnerabilities in Hooks Due to Risky Interactions](https://phalcon.xyz/blog/lethal-integration-vulnerabilities-in-hooks-due-to-risky-interactions): Scrutinizes secure hook interaction logic from flawed access control and improper input validation perspectives.
+- [Threats for UniswapV4 hooks](https://composable-security.com/blog/threats-for-uniswap-v-4-hooks/): Focuses on the potential threats, risks and vulnerabilities associated with bad hooks in Uniswap v4.
 
 ## 🍿 Videos
 
