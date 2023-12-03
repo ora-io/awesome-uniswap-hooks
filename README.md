@@ -113,6 +113,12 @@ _A collection of hooks from Uniswap and community developers._
 
 ### From Hackthon
 
+**[ETHGlobal Istanbul 2023](https://ethglobal.com/showcase/page/1?events=ethonline2023)**
+
+- [SUClave](https://ethglobal.com/showcase/suclave-dwh4f) ([source](https://github.com/getclave/suclave-ethglobal-istanbul/)): A hook that controls initial swap access. This democratizes MEV and ensures equitable swap opportunities in liquidity pools.
+- [Toxic Fl-no](https://ethglobal.com/showcase/toxic-fl-no-qsog4) ([source](https://github.com/tredfern0/toxic-fl-no)): A dynamic fee hook, rewarding valuable participants in the ecosystem by adjusting Uniswap pool fees based on user behavior within a Suave contract, promoting equitability.
+- [Aggeragator Hook](https://ethglobal.com/showcase/aggeragator-hook-rfy6g) ([source](https://github.com/Attens1423/Aggregator-Hook)): A hook enables LPs in other DEXes to optimize their Uniswap V4 positions, streamlining liquidity management. It facilitates JIT activation for profitable ranges.
+
 **[ETHOnline 2023](https://ethglobal.com/showcase/page/1?events=ethonline2023)**
 
 - [Perks](https://ethglobal.com/showcase/perks-gv9d1) ([source](https://github.com/aloksahay/perksApp)): A mobile app that redefines brand loyalty. Users earn rewards across various brands while token pools are shielded from market dumps via a Uniswap hook.
