@@ -110,6 +110,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Identity with Civic](https://github.com/civicteam/uniswap-v4-hook): A hook that allows traders with a [Civic Pass](https://www.civic.com/). This can be used for KYC, compliance, sybil resistance and more.
 - [Locking Liquidity Hook](https://github.com/BrokkrFinance/hooks-poc/blob/main/src/LiquidityLocking.sol): A hook that gives pool deployers a way to ensure consistent liquidity levels. This can let pool deployers create advanced features that are possible through locking liquidity. See also its [design choices](https://brokkrfinance.medium.com/locking-liquidity-hook-for-univ4-builders-perspective-44e192eefe1f).
 - [Attestation Hook](https://github.com/CliqueOfficial/attestation-hooks): A hook that allows for the querying of attestations from various attestation protocols. Check returned responses against preset criteria in any of the hook functions.
+- [Constant-sum Swap](https://github.com/saucepoint/v4-constant-sum): A hook that implements constant-sum swaps (x + y = k), allowing for an exact 1:1 swap everytime.
 
 ### From Hackthon
 
