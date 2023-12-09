@@ -230,6 +230,7 @@ _Read these articles to gain a deeper understanding of Uniswap v4 hooks._
 - [Thorns in the Rose: Exploring Security Risks in Uniswap v4's Novel Hook Mechanism](https://phalcon.xyz/blog/thorns-in-the-rose-exploring-security-risks-in-uniswap-v4-s-novel-hook-mechanism): Explores the threat models of Uniswap v4 hook, and discovers that 36% of the hooks in [this repository in one specific commit hash](https://github.com/fewwwww/awesome-uniswap-hooks/commit/3a0a444922f26605ec27a41929f3ced924af6075) may be vulnerable to attacks.
 - [Lethal Integration: Vulnerabilities in Hooks Due to Risky Interactions](https://phalcon.xyz/blog/lethal-integration-vulnerabilities-in-hooks-due-to-risky-interactions): Scrutinizes secure hook interaction logic from flawed access control and improper input validation perspectives.
 - [Threats for UniswapV4 hooks](https://composable-security.com/blog/threats-for-uniswap-v-4-hooks/): Focuses on the potential threats, risks and vulnerabilities associated with bad hooks in Uniswap v4.
+- [Uniswap V4: Re-Initialization Leading to Funds Locked](https://composable-security.com/blog/uniswap-v-4-re-initialization-leading-to-funds-locked/): Presents present implementations of "Bad hooks" of "Re-Initialization Leading to Funds Locked".
 
 ## 🍿 Videos
 
