@@ -170,6 +170,7 @@ _These are templates for writing Uniswap V4 Hooks._
 - [Lucas Martin Calderon's Template](https://github.com/LucasMartinCalderon/Uniswap): This repository contains a template for a hook that was created for the ETHGlobal Hackathon. This template can be used to create a custom hook that can be used to provide liquidity to a particular pool.
 - [Nick Addison's Template](https://github.com/naddison36/uniswap-v4-hooks): This repository contains a template for a hook that includes a factory to mine addresses and trace diagrams. This template can be used to create a custom hook that can be used to mine addresses and generate trace diagrams.
 - [Quantum3 Labs's Scaffold](https://github.com/Quantum3-Labs/Scaffold-UniswapV4): A boilerplate to use Uniswap v4 hooks with scaffold eth.
+- [Gnome101's Hardhat Template](https://github.com/Gnome101/UniswapV4Hardhat): A template and playground that uses hardhat. This can be used to create and test custom hooks.
 
 ## 🔗 Supported Chains
 
@@ -274,3 +275,4 @@ _Thanks to these contributors for making this list possible._
 - [UniV4 Hook Dojo](https://t.me/+m35oO7qzqu02NTgx)
 - [0xaaiden](https://github.com/0xaaiden)
 - [dankelleher](https://github.com/dankelleher)
+- [Gnome101](https://github.com/Gnome101)
