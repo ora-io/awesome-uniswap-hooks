@@ -48,7 +48,8 @@ During the course of a pool action's lifecycle, a hook invokes custom logic prim
    Upon initialization, a pool can be associated with a hook contract. Such a contract has the ability to execute any of the callback functions during the pool action's lifecycle:
 
 - `{before,after}Initialize`
-- `{before,after}ModifyPosition`
+- `{before,after}AddLiquidity`
+- `{before,after}RemoveLiquidity`
 - `{before,after}Swap`
 - `{before,after}Donate`
 
