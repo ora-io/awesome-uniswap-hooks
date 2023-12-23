@@ -48,7 +48,8 @@ During the course of a pool action's lifecycle, a hook invokes custom logic prim
    Upon initialization, a pool can be associated with a hook contract. Such a contract has the ability to execute any of the callback functions during the pool action's lifecycle:
 
 - `{before,after}Initialize`
-- `{before,after}ModifyPosition`
+- `{before,after}AddLiquidity`
+- `{before,after}RemoveLiquidity`
 - `{before,after}Swap`
 - `{before,after}Donate`
 
@@ -254,6 +255,7 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 - [Hook to Facilitate Keeper Activity](https://twitter.com/saucepoint/status/1686070429503676416): An intuition on using v4 hooks to facilitate keeper activity.
 - [What bad hooks look like](https://uniswap.notion.site/Research-What-bad-hooks-look-like-b10256c445904111914eb3b01fb4ec53): An RFP by Uniswap Foundation inviteing for proposals from academic researchers and/or solidity auditors to explore the "malicious design space" of hooks in solidity, especially how they can compromise systems and create safety failures.
 - [UniBrain Hook](https://hackmd.io/@kames/unibrain-hook): The UniBrain hook is designed to automatically trigger onchain actions using an automated Dutch Auction via a Uniswap V4 Pool. It can turn Uniswap v4 into a hub for triggering onchain function calls.
+- [Tips to make pool aggregator/searcher-friendly](https://twitter.com/fulminmaxi/status/1733500528607600946): 6 dos and don'ts to make v4 customized pools aggregator/searcher-friendly, to attract more volume from aggregators/searchers.
 
 ## 👀 See Also
 
