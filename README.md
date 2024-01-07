@@ -233,6 +233,8 @@ _Read these articles to gain a deeper understanding of Uniswap v4 hooks._
 - [Lethal Integration: Vulnerabilities in Hooks Due to Risky Interactions](https://phalcon.xyz/blog/lethal-integration-vulnerabilities-in-hooks-due-to-risky-interactions): Scrutinizes secure hook interaction logic from flawed access control and improper input validation perspectives.
 - [Threats for UniswapV4 hooks](https://composable-security.com/blog/threats-for-uniswap-v-4-hooks/): Focuses on the potential threats, risks and vulnerabilities associated with bad hooks in Uniswap v4.
 - [Uniswap V4: Re-Initialization Leading to Funds Locked](https://composable-security.com/blog/uniswap-v-4-re-initialization-leading-to-funds-locked/): Presents present implementations of "Bad hooks" of "Re-Initialization Leading to Funds Locked".
+- [Uniswap V4: Liquidity Theft via Hook Fee](https://composable-security.com/blog/uniswap-v-4-liquidity-theft-via-hook-fee/): Covers "Liquidity theft" using the scenario of "Hook sets high withdrawal fee".
+- [Uniswap V4: Oracle hook with malicious owner](https://composable-security.com/blog/uniswap-v-4-oracle-hook-with-malicious-owner/): Presents the potential risks of Oracle hook with malicious backdoor for owner.
 
 ## 🍿 Videos
 
