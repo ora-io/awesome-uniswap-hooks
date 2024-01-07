@@ -112,6 +112,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Locking Liquidity Hook](https://github.com/BrokkrFinance/hooks-poc/blob/main/src/LiquidityLocking.sol): A hook that gives pool deployers a way to ensure consistent liquidity levels. This can let pool deployers create advanced features that are possible through locking liquidity. See also its [design choices](https://brokkrfinance.medium.com/locking-liquidity-hook-for-univ4-builders-perspective-44e192eefe1f).
 - [Attestation Hook](https://github.com/CliqueOfficial/attestation-hooks): A hook that allows for the querying of attestations from various attestation protocols. Check returned responses against preset criteria in any of the hook functions.
 - [Constant-sum Swap](https://github.com/saucepoint/v4-constant-sum): A hook that implements constant-sum swaps (x + y = k), allowing for an exact 1:1 swap everytime.
+- [Violet Hooks](https://github.com/violetprotocol/uniswap-v4-violet-hooks): A hook that uses VioletID registry to perform identity checks. This can be used for permissioned pools for compliance.
 
 ### From Hackthon
 
