@@ -281,3 +281,4 @@ _Thanks to these contributors for making this list possible._
 - [0xaaiden](https://github.com/0xaaiden)
 - [dankelleher](https://github.com/dankelleher)
 - [Gnome101](https://github.com/Gnome101)
+- [buendiadas](https://github.com/buendiadas)
