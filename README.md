@@ -113,6 +113,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Attestation Hook](https://github.com/CliqueOfficial/attestation-hooks): A hook that allows for the querying of attestations from various attestation protocols. Check returned responses against preset criteria in any of the hook functions.
 - [Constant-sum Swap](https://github.com/saucepoint/v4-constant-sum): A hook that implements constant-sum swaps (x + y = k), allowing for an exact 1:1 swap everytime.
 - [Violet Hooks](https://github.com/violetprotocol/uniswap-v4-violet-hooks): A hook that uses VioletID registry to perform identity checks. This can be used for permissioned pools for compliance.
+- [Dynamic Fee Hook](https://github.com/umbrellaresearch/uni-v4-hooks-tutorial/blob/main/src/2-dynamic-fees/VolatilityFeeHook.sol): A hook that adjusts the pool fee based on the realized volatility of the pair, using a Volatility Fee oracle.
 
 ### From Hackthon
 
@@ -280,3 +281,4 @@ _Thanks to these contributors for making this list possible._
 - [0xaaiden](https://github.com/0xaaiden)
 - [dankelleher](https://github.com/dankelleher)
 - [Gnome101](https://github.com/Gnome101)
+- [buendiadas](https://github.com/buendiadas)
