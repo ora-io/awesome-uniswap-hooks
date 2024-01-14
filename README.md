@@ -114,6 +114,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Constant-sum Swap](https://github.com/saucepoint/v4-constant-sum): A hook that implements constant-sum swaps (x + y = k), allowing for an exact 1:1 swap everytime.
 - [Violet Hooks](https://github.com/violetprotocol/uniswap-v4-violet-hooks): A hook that uses VioletID registry to perform identity checks. This can be used for permissioned pools for compliance.
 - [Dynamic Fee Hook](https://github.com/umbrellaresearch/uni-v4-hooks-tutorial/blob/main/src/2-dynamic-fees/VolatilityFeeHook.sol): A hook that adjusts the pool fee based on the realized volatility of the pair, using a Volatility Fee oracle.
+- [WBTC Hook](https://github.com/tyllenb/v4-btc-hook), A hook that only allows WBTC pools to be created. This is built for celebrating the Bitcoin ETF was approved on 2024-01-10.
 
 ### From Hackthon
 
