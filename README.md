@@ -210,6 +210,10 @@ _A list of chains with their respective `chainId` values and an example `poolAdd
   - Currency: `ETH`
   - PoolManager: `0xA449635FaAA6b5a45a568fCe217Bb7921c992285`
 
+- **Ethereum Sepolia Testnet**
+  - ChainID: `11155111`
+  - Currency: `ETH`
+  - PoolManager: `0x64255ed21366DB43d89736EE48928b890A84E2Cb`
 
 ## 🎓 Tutorials
 
