@@ -288,3 +288,4 @@ _Thanks to these contributors for making this list possible._
 - [dankelleher](https://github.com/dankelleher)
 - [Gnome101](https://github.com/Gnome101)
 - [buendiadas](https://github.com/buendiadas)
+- [LiRiu](https://github.com/LiRiu)
