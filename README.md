@@ -226,6 +226,7 @@ _Empower your learning curve with these insightful tutorials._
 - [Saucepoint: Getting Started with the `v4-template`](https://uniswaphooks.com/blog/getting-started-with-v4-template): This tutorial provides a step-by-step guide to using the `v4-template` to create a custom hook, with testing and trouble-shooting tips.
 - [Captain Hook: Uniswap Hooks Tutorial](https://github.com/umbrellaresearch/uni-v4-hooks-tutorial): This tutorial contains 3 different proofs of concept hooks, accompanied by a tutorial blog post.
 - [Umbrella Research: A Deep Dive With Captain Hook (I)](https://medium.com/@umbrellaresearch/uniswap-v4-hooks-a-deep-dive-with-captain-hook-i-6be5d1677539): This tutorial shows how developers can implement role-based features within the Uniswap v4 protocol.
+- [Umbrella Research: Uniswap v4 Hooks Guide (II) Dynamic Fees Hook](https://medium.com/@umbrellaresearch/uniswap-v4-hooks-a-deep-dive-with-captain-hook-ii-44b0efc84e45): This article talks about how Dynamic Fees work and their impact on Uniswap V4.
 
 ## 💡 Articles
 
