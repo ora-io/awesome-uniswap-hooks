@@ -291,3 +291,4 @@ _Thanks to these contributors for making this list possible._
 - [Gnome101](https://github.com/Gnome101)
 - [buendiadas](https://github.com/buendiadas)
 - [LiRiu](https://github.com/LiRiu)
+- [omahs](https://github.com/omahs)
