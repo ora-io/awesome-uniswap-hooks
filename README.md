@@ -14,7 +14,7 @@ Special thanks to Uniswap Foundation for [including this resource in the officia
   - [📜 Examples](#-examples)
     - [From Uniswap](#from-uniswap)
     - [From Community](#from-community)
-    - [From Hackthon](#from-hackthon)
+    - [From Hackathon](#from-hackathon)
   - [🛠 Tools](#-tools)
   - [📐 Templates](#-templates)
   - [🔗 Supported Chains](#-supported-chains)
@@ -103,10 +103,10 @@ _A collection of hooks from Uniswap and community developers._
 - [Privacy Enhancing Hook](https://github.com/atj3097/privacy-hook-univ4): A hook for Uniswap v4 that combines the privacy features of Tornado Cash with the efficiency and verifiability of Merkle trees/ZK Snarks. This can enhance the privacy and security of Uniswap v4 pools by breaking the on-chain link between depositors and withdrawal addresses, while also providing a verifiable proof of inclusion.
 - [Minimize LVR Hook](https://github.com/ArrakisFinance/minimize-lvr-hook-poc): A hook for implementing the POC of research idea on loss-versus-rebalancing. This can reduce LVR and increase LP returns.
 - [Bungi](https://github.com/saucepoint/bungi): An experimental Liquidity Position Manager for Uniswap v4. This can be an advanced LP router with more features than the baseline [PoolModifyPositionTest](https://github.com/Uniswap/v4-core/blob/main/contracts/test/PoolModifyPositionTest.sol).
-- [Captain Hooks](https://github.com/mrhouzlane/CaptainHooks): A series of Uniswap v4 custom hooks built with Scaffold ETH 2. This can be used for targeting traditional fiannce entities, offering custom pools with dynamic fee options and other functionnalities.
+- [Captain Hooks](https://github.com/mrhouzlane/CaptainHooks): A series of Uniswap v4 custom hooks built with Scaffold ETH 2. This can be used for targeting traditional finance entities, offering custom pools with dynamic fee options and other functionalities.
 - [Anti-KYC](https://github.com/thegeronimo/Uniswap-Hooks/blob/main/contracts/AntiKYCHook.sol): A hook that bans KYC-ed users. This can be used to provide alternative liquidity pools for users who do not want to go through KYC.
 - [WID KYC](https://github.com/Shivamycodee/WID-KYC-Hook): A hook that uses World ID to perform KYC checks. This can be used to provide specific liquidity pools for users who have registered on the World ID of World Coin.
-- [Volatility Fee Hook](https://github.com/0xrhsmt/uniswapv4-volatility-fee-hook): A dynamic fee hook based on volatility to mitigate large impermanent losses on high volatility assets. This can be used to increases liquidity, which also benefits users.
+- [Volatility Fee Hook](https://github.com/0xrhsmt/uniswapv4-volatility-fee-hook): A dynamic fee hook based on volatility to mitigate large impermanent losses on high volatility assets. This can be used to increase liquidity, which also benefits users.
 - [Ref Fee Hook](https://github.com/mergd/ref-fee-hook): A hook that takes referral fees for swaps and liquidity adds (if specified). This can be used to incentivize users to refer others to the pool.
 - [Identity with Civic](https://github.com/civicteam/uniswap-v4-hook): A hook that allows traders with a [Civic Pass](https://www.civic.com/). This can be used for KYC, compliance, sybil resistance and more.
 - [Locking Liquidity Hook](https://github.com/BrokkrFinance/hooks-poc/blob/main/src/LiquidityLocking.sol): A hook that gives pool deployers a way to ensure consistent liquidity levels. This can let pool deployers create advanced features that are possible through locking liquidity. See also its [design choices](https://brokkrfinance.medium.com/locking-liquidity-hook-for-univ4-builders-perspective-44e192eefe1f).
@@ -116,7 +116,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Dynamic Fee Hook](https://github.com/umbrellaresearch/uni-v4-hooks-tutorial/blob/main/src/2-dynamic-fees/VolatilityFeeHook.sol): A hook that adjusts the pool fee based on the realized volatility of the pair, using a Volatility Fee oracle.
 - [WBTC Hook](https://github.com/tyllenb/v4-btc-hook), A hook that only allows WBTC pools to be created. This is built for celebrating the Bitcoin ETF was approved on 2024-01-10.
 
-### From Hackthon
+### From Hackathon
 
 **[ETHGlobal Istanbul 2023](https://ethglobal.com/showcase/page/1?events=ethonline2023)**
 
@@ -143,7 +143,7 @@ _A collection of hooks from Uniswap and community developers._
 - [UniV4 CCLP Hook](https://ethglobal.com/showcase/univ4-cclp-hook-zd3st) ([source](https://github.com/cesarhuret/ethglobalnyc)): Uses Uniswap V4 to create a hook that seamlessly transfers the user's LP to another chain, without them having to worry about bridging or anything else.
 - [TimeConcentrate](https://ethglobal.com/showcase/timeconcentrate-c58h4) ([source](https://github.com/MarcusWentz/time_concentrate)): Concentrates liquidity along price, and now time, with Uni v4 hooks to mitigate the times MEV bots attack. Hook that modifies positions based on time of MEV attacks.
 - [Arb Controller](https://ethglobal.com/showcase/arb-controller-dw3so) ([source](https://github.com/ziyincody/arbitrage-controller-ETHNYC)): A Uniswap v4 hook that sets dynamic fee for a pool based on the price movements. The dynamic fee partially discriminates informed order flow from arbitrageurs.
-- [NYCV4Hermit](https://ethglobal.com/showcase/nycv4hermit-dj0um) ([source](https://github.com/djm07073/ETHNewYork-Hook-LAB)): Three libraries of tooling developed for Liquidity Sniping (Liqiudity Snipping Blocking Hook), V4 Math, and a V4 Quoter Library.
+- [NYCV4Hermit](https://ethglobal.com/showcase/nycv4hermit-dj0um) ([source](https://github.com/djm07073/ETHNewYork-Hook-LAB)): Three libraries of tooling developed for Liquidity Sniping (Liquidity Snipping Blocking Hook), V4 Math, and a V4 Quoter Library.
 - [Lime](https://ethglobal.com/showcase/lime-qczie) ([source](https://github.com/kohshiba/univ4-offchain-pricing)): An active Uniswap V4 hook manager which allows fillers or market makers to set price and fill Intent / RFQ based swap requests.
 
 **[EthCC Paris Hookathon 2023](https://twitter.com/UniswapFND/status/1683983199872122881)**
@@ -258,13 +258,13 @@ _Watch these videos to learn more about Uniswap v4 hooks._
 
 _Hooks open doors to limitless innovations. Check out some of these inspiring ideas._
 
-- [Loss Versus Rebalancing Minimization](https://ethresear.ch/t/lvr-minimization-in-uniswap-v4/15900): Research funded from the Uniswap Foundation Grants Program regarding cross-domain MEV sources within the DEX ecosystem, specifically on loss-versus-rebalancing (LVR).
+- [Loss Versus Rebalancing Minimization](https://ethresear.ch/t/lvr-minimization-in-uniswap-v4/15900): Research funded by the Uniswap Foundation Grants Program regarding cross-domain MEV sources within the DEX ecosystem, specifically on loss-versus-rebalancing (LVR).
 - [Oracleless Lending Protocol](https://blog.instadapp.io/oracleless-lending-protocol-on-uniswap-v4/): Creating a new lending protocol offering features like flexible liquidation thresholds, oracle-free operations, and enhanced earnings for liquidity providers.
 - [Torando Cash on Hooks](https://twitter.com/witconomist/status/1694859874080076180): A Tornado-like system, utilizing all of Uniswap's liquidity as its pool.
 - [Hook Safety as a Service](https://twitter.com/xin__wan/status/1695258362298933499): Insuring safety of a hook up to a certain amount.
 - [Gasless Swaps](https://twitter.com/dhruvinparikh_/status/1691441830410461184): Incentivizing traders via a non-toxic MEV executer with gasless swaps.
 - [Hook to Facilitate Keeper Activity](https://twitter.com/saucepoint/status/1686070429503676416): An intuition on using v4 hooks to facilitate keeper activity.
-- [What bad hooks look like](https://uniswap.notion.site/Research-What-bad-hooks-look-like-b10256c445904111914eb3b01fb4ec53): An RFP by Uniswap Foundation inviteing for proposals from academic researchers and/or solidity auditors to explore the "malicious design space" of hooks in solidity, especially how they can compromise systems and create safety failures.
+- [What bad hooks look like](https://uniswap.notion.site/Research-What-bad-hooks-look-like-b10256c445904111914eb3b01fb4ec53): An RFP by Uniswap Foundation inviting for proposals from academic researchers and/or solidity auditors to explore the "malicious design space" of hooks in solidity, especially how they can compromise systems and create safety failures.
 - [UniBrain Hook](https://hackmd.io/@kames/unibrain-hook): The UniBrain hook is designed to automatically trigger onchain actions using an automated Dutch Auction via a Uniswap V4 Pool. It can turn Uniswap v4 into a hub for triggering onchain function calls.
 - [Tips to make pool aggregator/searcher-friendly](https://twitter.com/fulminmaxi/status/1733500528607600946): 6 dos and don'ts to make v4 customized pools aggregator/searcher-friendly, to attract more volume from aggregators/searchers.
 - [Value accrual designs for hook developers](https://twitter.com/saucepoint/status/1744385686621372723): A simple hook fee introduces vampire/fork risk. Retaining LPs will be crucial to justifying hook fees.
