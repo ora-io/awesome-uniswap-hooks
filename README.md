@@ -270,6 +270,7 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 - [UniBrain Hook](https://hackmd.io/@kames/unibrain-hook): The UniBrain hook is designed to automatically trigger onchain actions using an automated Dutch Auction via a Uniswap V4 Pool. It can turn Uniswap v4 into a hub for triggering onchain function calls.
 - [Tips to make pool aggregator/searcher-friendly](https://twitter.com/fulminmaxi/status/1733500528607600946): 6 dos and don'ts to make v4 customized pools aggregator/searcher-friendly, to attract more volume from aggregators/searchers.
 - [Value accrual designs for hook developers](https://twitter.com/saucepoint/status/1744385686621372723): A simple hook fee introduces vampire/fork risk. Retaining LPs will be crucial to justifying hook fees.
+- [auction-managed AMM](https://twitter.com/danrobinson/status/1765773423090012433): An auction-managed AMM that shows the design space of v4.
 
 ## 👀 See Also
 
