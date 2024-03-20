@@ -171,6 +171,7 @@ _Utilize these tools to boost your development process._
 - [Hook Deployer](https://github.com/drgorillamd/uniV4-hook-deployer): Hook create2 deployer. This tool can be used to deploy hooks to Ethereum.
 - [Uniswap v4 Tests](https://github.com/jamesbachini/Uniswap-v4-Tests): A test suite for working with Uniswap v4 hooks. This test suite can be used to verify that your hooks are working correctly.
 - [Uniswap v4 Hook Test Framework](https://github.com/khegeman/uniswapv4-hook-test-framework): A fuzz testing framework for Uniswap V4 Hooks, built during ETHGlobal 2023. This framework can be used to test the security of your hooks.
+- [Hookmate](https://github.com/saucepoint/hookmate): Experimental Solidity components and utilities for Uniswap v4 Hook development. This can help developers leverage extsload and access fee info for hooks.
 
 ## 📐 Templates
 
@@ -277,6 +278,7 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 - [UniBrain Hook](https://hackmd.io/@kames/unibrain-hook): The UniBrain hook is designed to automatically trigger onchain actions using an automated Dutch Auction via a Uniswap V4 Pool. It can turn Uniswap v4 into a hub for triggering onchain function calls.
 - [Tips to make pool aggregator/searcher-friendly](https://twitter.com/fulminmaxi/status/1733500528607600946): 6 dos and don'ts to make v4 customized pools aggregator/searcher-friendly, to attract more volume from aggregators/searchers.
 - [Value accrual designs for hook developers](https://twitter.com/saucepoint/status/1744385686621372723): A simple hook fee introduces vampire/fork risk. Retaining LPs will be crucial to justifying hook fees.
+- [auction-managed AMM](https://twitter.com/danrobinson/status/1765773423090012433): An auction-managed AMM that shows the design space of v4.
 
 ## 👀 See Also
 
@@ -284,6 +286,7 @@ _Check out these related resources._
 
 - [Uniswap v4: A New Era For Defi](https://uniswapfoundation.mirror.xyz/5elfLDeU-AMehTtnwAswhc3p2NjF3_BWDtji6BEzh_0): Article from Uniswap discussing their excitement for the developing of the ecosystem -- highlighting hooks' ability to attract liquidity, design new interfaces, and bridge DeFi into the mainstream.
 - [Contribution Guidelines for Uniswap v4 Core](https://github.com/Uniswap/v4-core/blob/main/CONTRIBUTING.md): Uniswap has released the draft code so that v4 can be built in public with community contribution. You may contribute by opening an issue, resolving an issue, and reviewing open PRs.
+- [The Uniswap Hook Incubator](https://atrium.academy/uniswap): An 8-week program to help advanced DeFi devs build hooks.
 
 ## 🙏 Thanks
 
