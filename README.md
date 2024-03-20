@@ -118,7 +118,14 @@ _A collection of hooks from Uniswap and community developers._
 
 ### From Hackathon
 
-**[ETHGlobal Istanbul 2023](https://ethglobal.com/showcase/page/1?events=ethonline2023)**
+**[ETHGlobal London 2024](https://ethglobal.com/showcase/page/1?events=london2024)**
+
+- [Apeful](https://ethglobal.com/showcase/apeful-5avb8) ([source](https://github.com/joergkiesewetter/2024-ethglobal-london)): A hook that enables user incentives on Uniswap V4 pools by automatically generating AI-based NFTs when the user does specific action with ApeCoins, everything completely onchain.
+- [The Incredible Hook](https://ethglobal.com/showcase/the-incredible-hook-g635j) ([source](https://github.com/youtpout/the-incredible-hook)): A hook that enables user to get their transaction sponsored in exchange for a discount on swap fees for the sponsor, a win-win deal.
+- [SuckerPunch](https://ethglobal.com/showcase/suckerpunch-tp4yo) ([source](https://github.com/popfendi/suckerpunch)): A dynamic fee hook, which adjusts fees based on how long you've been a holder.
+- [Dynamic AMM Fees](https://ethglobal.com/showcase/dynamic-amm-fees-x3x1v) ([source](https://github.com/jpw993/ethlondon_dynamicfeehook)): A hook with impermanent loss protection using dynamic fees based on market volatility.
+
+**[ETHGlobal Istanbul 2023](https://ethglobal.com/showcase/page/1?events=istanbul)**
 
 - [SUClave](https://ethglobal.com/showcase/suclave-dwh4f) ([source](https://github.com/getclave/suclave-ethglobal-istanbul/)): A hook that controls initial swap access. This democratizes MEV and ensures equitable swap opportunities in liquidity pools.
 - [Toxic Fl-no](https://ethglobal.com/showcase/toxic-fl-no-qsog4) ([source](https://github.com/tredfern0/toxic-fl-no)): A dynamic fee hook, rewarding valuable participants in the ecosystem by adjusting Uniswap pool fees based on user behavior within a Suave contract, promoting equitability.
