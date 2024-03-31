@@ -124,7 +124,10 @@ _A collection of hooks from Uniswap and community developers._
 - [The Incredible Hook](https://ethglobal.com/showcase/the-incredible-hook-g635j) ([source](https://github.com/youtpout/the-incredible-hook)): A hook that enables user to get their transaction sponsored in exchange for a discount on swap fees for the sponsor, a win-win deal.
 - [SuckerPunch](https://ethglobal.com/showcase/suckerpunch-tp4yo) ([source](https://github.com/popfendi/suckerpunch)): A dynamic fee hook, which adjusts fees based on how long you've been a holder.
 - [Dynamic AMM Fees](https://ethglobal.com/showcase/dynamic-amm-fees-x3x1v) ([source](https://github.com/jpw993/ethlondon_dynamicfeehook)): A hook with impermanent loss protection using dynamic fees based on market volatility.
-- [LVooooors](https://github.com/LVooooors/ETHGlobalLondon): A hook that fixes LVR in Uniswap v4 pools by distributing the arbitrage MEV back to LPs.
+- [TokenTown](https://github.com/Gnome101/UniswapV4HardhatAgain) ([source](https://ethglobal.com/showcase/tokentown-7a1hp)): A Monopoly-inspired, onchain board game where in-game properties are purchased with a stepwise price via a custom-curve v4 pool.
+- [0xEstate](https://github.com/ahmedali8/0xestate-contracts) ([source](https://ethglobal.com/showcase/0xestate-gmqr0)): A marketplace that leverages v4 hooks to provide liquidity to fractional real estate. Hooks enabled constraints for purchases of onchain assets.
+- [Royalty Swap](https://github.com/Keinberger/royalty-swap) ([source](https://ethglobal.com/showcase/royalty-swap-n8y1i)): A hook to provide discounted swap fees for high volume traders
+- [FairArbooors](https://github.com/LVooooors/ETHGlobalLondon) ([source](https://ethglobal.com/showcase/fairarbooors-uq81v)): SUAVE auctions for the right to perform top-of-block swaps, with auction proceeds being donated to LPs.
 
 **[ETHGlobal Istanbul 2023](https://ethglobal.com/showcase/page/1?events=istanbul)**
 
