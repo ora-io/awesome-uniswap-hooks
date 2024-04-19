@@ -1,5 +1,7 @@
 # 🦄️ Awesome Uniswap v4 Hooks
 
+> Check out [UniswapHooks.com](https://uniswaphooks.com/) for more contents!
+
 A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hooks](https://github.com/Uniswap/v4-periphery/tree/main/contracts/hooks) resources.
 
 Special thanks to Uniswap Foundation for [including this resource in the official doc](https://web.archive.org/web/20230915081852/https://docs.uniswapfoundation.org/hooks/hook-examples) and [mentioning this work in the blog](https://web.archive.org/web/20231019143600/https://blog.uniswap.org/uniswap-v4-community-contributions)!
@@ -175,6 +177,7 @@ _Utilize these tools to boost your development process._
 - [Uniswap v4 Tests](https://github.com/jamesbachini/Uniswap-v4-Tests): A test suite for working with Uniswap v4 hooks. This test suite can be used to verify that your hooks are working correctly.
 - [Uniswap v4 Hook Test Framework](https://github.com/khegeman/uniswapv4-hook-test-framework): A fuzz testing framework for Uniswap V4 Hooks, built during ETHGlobal 2023. This framework can be used to test the security of your hooks.
 - [Hookmate](https://github.com/saucepoint/hookmate): Experimental Solidity components and utilities for Uniswap v4 Hook development. This can help developers leverage extsload and access fee info for hooks.
+- [Uniswap v4 Minimal](https://github.com/0xaaiden/uniswap-v4-minimal): Minimal subgraph for Uniswap v4.
 
 ## 📐 Templates
 
