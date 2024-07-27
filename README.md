@@ -121,6 +121,45 @@ _A collection of hooks from Uniswap and community developers._
 
 ### From Hackathon
 
+**[Hookathon C1](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/)**
+
+- [Vortex Protocol](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/0288ead9-9208-49ae-acb0-df5832a17c94/): Tornado Cash using Uniswap V4 Hooks + Legal Compliance.
+- [DiamondX](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/0cb33efc-c4aa-4b12-abb7-130478f25de4/): Innovative Liquidity Solutions for Diamonds.
+- [V4-orderbook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/10b527ed-6d86-4eec-9444-38f4a0eb05c9/): limit order hook for Uniswap with intent-based orderbook.
+- [FlexFee](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/1456547e-c635-408b-ac89-615b6c6b9a80/): Protecting LPs from impermanent loss using dynamic fees based on volatility (calculated with Brevis) and swap size.
+- [Squared](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/18970626-eb1a-4722-bbce-6e31ade9ce0f/): Access leverage on any token.
+- [AutoMate](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/20f9dd48-d366-42be-91b8-7ad09692725f/): Foodpanda for your on-chain tasks.
+- [Oolong.xyz](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/24c54840-fe7c-44df-b986-2d2a01414eee/): Margin trading by recycling LP liquidity with auto-rebalancing.
+- [Ampli](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/26838945-52ac-4797-a69e-a39c53f7d268/): A permissionless, self-custodial margin protocol with protocol provided liquidity built on top of Uniswap v4.
+- [UniCast](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/372c9d9a-4ab1-49d1-92ea-7edded52928f/): A forward-look event hook for LSTs and yield-bearing tokens.
+- [Advanced Orders](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/37ad66ab-97d5-4b00-8478-df45a7612977/): Advanced Orders Hook to create Stop Loss, Buy Stop, Buy Limit and Take Profit Orders.
+- [Timelock Addition to the Points Loyalty Repo](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/3995df19-b709-46a2-9339-766603ca74ce/): Lock-down Incentivized Liquidity using a beforeRemoveLiquidity hook to ensure sufficient time has passed.
+- [StableSwap](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/3a428d05-98a2-4246-afb8-e0e17ca4b21b/): NoOp hook with full functionality of Curve-liked AMM.
+- [Concentrated Incentives Hook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/40a37f97-819b-4458-81aa-a071cb0df5f0/): Transparent & Optimal Incentives in V4 by incentivizing only the active tick.
+- [LBP Hook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/41281dc7-d510-4409-a85d-17b608d14627/): Permissionless LBP sales for everyone.
+- [Auto Compound](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/434f434d-212c-4036-a6fd-ccd1332464ea/): A hook which is designed to reinvest the earned fee back to LP position using uniswap's v4 hooks.
+- [Degen Options](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/4c0f3abd-e74e-4ff1-bd07-0d37521c9147/): Reward your traders like the good ol' days of DeFi Summer.
+- [LiquidityLock](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/51bbf237-01bf-48d0-a586-9b36df2feb47/): Incentivize Liquidity Locks for any Uniswapv4 pool.
+- [Liquidity Mining on V4](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/5a610ca0-780b-44ee-a11a-7ef760b13ea6/): Enables any token rewards based on price in the range and liquidity amount.
+- [LiquidityLock](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/65f4f590-edd7-42f8-befc-38e21109b4cd/): Incentivize Liquidity Locks for any Uniswapv4 pool.
+- [Fidelity Hook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/74320761-4ed9-4a01-9248-29c17e7aca77/): Market competitive pools withfee reductions.
+- [Lumis](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/7d2c649c-b521-40b3-9120-c188f64c2cbc/): Hook-based options & Liquidity-as-a-service.
+- [LoyalSwap](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/7f3f6221-0979-47c2-a1c6-e1f9d39ad1e4/): Loyal fees for loyal users.
+- [FairLaunchoor](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/80e58e36-4506-44d6-8cf9-04934aa8c416/): Launch your token in a permissionless trustless cyberpunk and most importantly fair way.
+- [Dortfolio](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/81c638c5-edc4-421c-b40f-e2bf1c4cad49/): Turn any portfolio into a token.
+- [UniMarket](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/823a4b3f-af7f-4130-912f-d80ce9e913ae/): Prediction Market built on a hook.
+- [Levery](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/8c0ce7cf-dde8-4814-90c9-b4f3b07f8428/): Regulatory compliant DEX infrastructure oriented on toxic arbitrage mitigation.
+- [Mev Auction Hook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/95127f15-30a0-4231-947e-8c73fed7be1c/): Reduce MEV spreads and impermanent loss natively through swaps.
+- [Internal Swap Pool Hook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/984a6c34-e073-42bf-8614-409659a103ee/): Convert accumulated token fees before `donate`, whilst avoiding slippage and pool price change.
+- [Liquidity Bet Hook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/9f8a73e2-dfb5-4b2f-bc03-8d34d5680e73/): Allows users to bet on whether the liquidity of a specific pool (Token0/Token1) will be higher.
+- [Simple LP Rebalancer](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/a6da420d-7034-4111-af4c-8b5d2623227f/): 100% capital efficiency for LPs.
+- [Trailing Hook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/a9e4dd2d-3b06-4ea7-aac9-8569e13242b3/): Create a trailing stop directly in a hook.
+- [am-AMM hook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/ae6965c8-8e5d-43f1-b74e-6bf63f2455d9/): An auction-managed AMM that enhance price discovery, reduce impermanent loss, and offer more liquidity in equilibrium than any standard, fixed-fee AMM.
+- [Realized Volatility Based Dynamic Fee Hook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/c4e966cd-4203-402d-b7c4-cb60ad9fb60d/): A Uniswap V4 Hook taking SNARK Verified Realized Volatility data of ETH/USDC acrosses DEXes to determine real time fee.
+- [Auction-managed perpetual options](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/de00e67a-e04c-4144-a1cf-039027fb3c31/): Perpetual options offering leverage on any token.
+- [Catapoolt](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/df4b6a25-6b97-4312-933b-b7771a6d125a/): Gamified Liquidity Mining.
+- [Fungi Hook](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/f8c5386c-8bcd-4c58-8f8c-b261070fd7d0/): Make ranges fungible.
+
 **[ETHGlobal London 2024](https://ethglobal.com/showcase/page/1?events=london2024)**
 
 - [Apeful](https://ethglobal.com/showcase/apeful-5avb8) ([source](https://github.com/joergkiesewetter/2024-ethglobal-london)): A hook that enables user incentives on Uniswap V4 pools by automatically generating AI-based NFTs when the user does specific action with ApeCoins, everything completely onchain.
