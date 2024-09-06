@@ -326,6 +326,7 @@ _Hooks open doors to limitless innovations. Check out some of these inspiring id
 - [Value accrual designs for hook developers](https://twitter.com/saucepoint/status/1744385686621372723): A simple hook fee introduces vampire/fork risk. Retaining LPs will be crucial to justifying hook fees.
 - [auction-managed AMM](https://twitter.com/danrobinson/status/1765773423090012433): An auction-managed AMM that shows the design space of v4.
 - [Sandwich-resistant Hook](https://x.com/cairoeth/status/1825593789492375925): A sandwich-resistant Uniswap v4 hook based on "A SANDWICH-RESISTANT AMM" from Umbra Research.
+- [The Null Fee Idea](https://github.com/subtrahend-labs/research/blob/main/the-null-fee.pdf): A novel type of indicator called the null fee that may be a useful ingredient in the design of a dynamic fee algorithms for concentrated liquidity and constant product AMMs.
 
 ## 👀 See Also
 
