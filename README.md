@@ -118,6 +118,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Dynamic Fee Hook](https://github.com/umbrellaresearch/uni-v4-hooks-tutorial/blob/main/src/2-dynamic-fees/VolatilityFeeHook.sol): A hook that adjusts the pool fee based on the realized volatility of the pair, using a Volatility Fee oracle.
 - [WBTC Hook](https://github.com/tyllenb/v4-btc-hook): A hook that only allows WBTC pools to be created. This is built for celebrating the Bitcoin ETF was approved on 2024-01-10.
 - [v2 on v4](https://github.com/hensha256/v2-on-v4): A hook that implements Uniswap v2 on Uniswap v4 with hook.
+- [Base v4 Hook](https://github.com/cairoeth/base-v4-hook): A hook that implements v4-like liquidity logic.
 
 ### From Hackathon
 
