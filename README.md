@@ -122,6 +122,18 @@ _A collection of hooks from Uniswap and community developers._
 
 ### From Hackathon
 
+**[ETHGlobal Brussels 2024](https://x.com/UniswapFND/status/1813647336427647474)**
+
+- [Malbec Finance](https://ethglobal.com/showcase/malbec-finance-7pjoz): Liquidity lent out for additional yield. With a synthetic pool, the hook claws back the minimum liquidity to swap (as if it wasn't lent out)..
+- [LaunchFi](https://ethglobal.com/showcase/launchfi-o5iiq): Token launchpad with the choice of exponential bonding curve or gradual dutch auction. With dynamic LP fees, the hook rewards buyers & disincentives sellers.
+- [All my 🦄 Read on L1](https://ethglobal.com/showcase/all-my-unicorn-read-on-l1-1v7jk): A hook which uses Scroll's L1SLOAD to read L1 spot price and prevent cross-chain arbitrage (LVR) on Scroll pools.
+- [HookRank](https://ethglobal.com/showcase/hookrank-ym97n): An analytics app to surface data & safety of hooks and their corresponding pools. The dashboard includes transaction volume, swap success rate, earnings, gas spent, safety score, and user ratings.
+- [X-DataAggregator](https://ethglobal.com/showcase/x-dataaggregator-dji5w): An onchain & crosschain data aggregation contract, including Uniswap v3 and v4 TWAP oracles.
+- [Liquid Delegation](https://ethglobal.com/showcase/liquid-delegation-wqp0m): A marketplace for buying ARB delegation, allowing revenue-sharing with wrapped-ARB liquidity providers.
+- [liqu1tent](https://ethglobal.com/showcase/liqu1tent-5mctm): Cross-chain swaps w/ ERC-7683 settlement contract & solver. Experimented with bytes32 accounts & compatibility with non-EVM chains.
+- [Cook Some Hooks](https://ethglobal.com/showcase/cook-some-hooks-ehuy8): A prompt-style hook generator using LLMs to produce compiling and deployed hooks.
+- [IntegrumSwap](https://ethglobal.com/showcase/integrumswap-7d99r): A cross-chain exchange using NoOp hooks for asynchronous RFQ swap fulfillment, with fallbacks to v4 liquidity.
+
 **[Hookathon C1](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/)**
 
 - [Vortex Protocol](https://uniswap.atrium.academy/hackathons/hookathon-c1/projects/0288ead9-9208-49ae-acb0-df5832a17c94/): Tornado Cash using Uniswap V4 Hooks + Legal Compliance.
