@@ -283,6 +283,11 @@ _A list of chains with their respective `chainId` values and an example `poolAdd
   - Currency: `ETH`
   - PoolManager: `0x64255ed21366DB43d89736EE48928b890A84E2Cb`
 
+- **Celo Alfajores Testnet**
+  - ChainID: `44787`
+  - Currency: `A-CELO`
+  - PoolManager: `0xF30C3bCA299F68946cEF6cC7D3D1df9De1A400DD`
+
 ## 🎓 Tutorials
 
 _Empower your learning curve with these insightful tutorials._
