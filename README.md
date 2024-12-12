@@ -119,6 +119,7 @@ _A collection of hooks from Uniswap and community developers._
 - [WBTC Hook](https://github.com/tyllenb/v4-btc-hook): A hook that only allows WBTC pools to be created. This is built for celebrating the Bitcoin ETF was approved on 2024-01-10.
 - [v2 on v4](https://github.com/hensha256/v2-on-v4): A hook that implements Uniswap v2 on Uniswap v4 with hook.
 - [Base v4 Hook](https://github.com/cairoeth/base-v4-hook): A hook that implements v4-like liquidity logic.
+- [Backrunning Oracle](https://github.com/RigoBlock/back-geo-oracle/blob/main/src/BackGeoOracle.sol): A backrunning oracle is an onchain PoS resistant price oracle that records the price of an asset in a Uniswap liquidity pool using the geometric mean formula. See also [Rigoblock's research blog post on backrunning oracles](https://mirror.xyz/rigoblock.eth/yKAD5uYyH0KwfdsOxzt0MyppkFJZzXkxAFeufPGVA2M).
 
 ### From Hackathon
 
