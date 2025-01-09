@@ -319,6 +319,7 @@ _Read these articles to gain a deeper understanding of Uniswap v4 hooks._
 - [Uniswap V4: Liquidity Theft via Hook Fee](https://composable-security.com/blog/uniswap-v-4-liquidity-theft-via-hook-fee/): Covers "Liquidity theft" using the scenario of "Hook sets high withdrawal fee".
 - [Uniswap V4: Oracle hook with malicious owner](https://composable-security.com/blog/uniswap-v-4-oracle-hook-with-malicious-owner/): Presents the potential risks of Oracle hook with malicious backdoor for owner.
 - [UniswapV4: Further research to improve hooks security](https://composable-security.com/blog/uniswap-v-4-further-research-to-improve-hooks-security/): Focuses on the current state and the ideas on how to change Uniswap v4 security by further research.
+- [Protecting Uniswap v4 Against Unknown Attacks](https://www.certora.com/blog/protecting-uniswap-v4-against-unknown-attacks-part-one-a-threat-model): Explores the threat model for Uniswap v4, analyzes potential attack vectors, and evaluates how the protocol's test suite addresses them.
 
 ## 🍿 Videos
 
