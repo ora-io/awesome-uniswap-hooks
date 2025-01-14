@@ -232,6 +232,8 @@ _Utilize these tools to boost your development process._
 - [Uniswap v4 Hook Test Framework](https://github.com/khegeman/uniswapv4-hook-test-framework): A fuzz testing framework for Uniswap V4 Hooks, built during ETHGlobal 2023. This framework can be used to test the security of your hooks.
 - [Hookmate](https://github.com/saucepoint/hookmate): Experimental Solidity components and utilities for Uniswap v4 Hook development. This can help developers leverage extsload and access fee info for hooks.
 - [Uniswap v4 Minimal](https://github.com/0xaaiden/uniswap-v4-minimal): Minimal subgraph for Uniswap v4.
+- [Uniswap V4 Hook Address Miner](https://v4hookaddressminer.xyz/): Fast multithreaded Uniswap V4 hook vanity address miner online tool
+
 
 ## 📐 Templates
 
