@@ -73,6 +73,12 @@ _Hooks foster creativity. Here are some interesting functionalities that could b
 
 _A collection of hooks from Uniswap and community developers._
 
+### Projects
+
+- [Angstrom](https://x.com/angstromxyz): The first DEX that defends LPs. Angstrom utlizes Uniswap v4 hook for ensuring only staked Angstrom validators can execute swaps to realize onchain DEX based on decentralized node network.
+- [Flaunch](https://flaunch.gg/): Meme coin launchpad that enables 100% of trading fees go to creators and buybacks. Flaunch utilizes Uniswap v4 hook for enabling fair price launch of token, and distributing swap fees automatically.
+- [Bunni](https://bunni.pro/): The shapeshifting exchange that maximizes liquidity provider profits in all market conditions. Bunni utilizes Uniswap v4 hook for rehypothecation that boosts LP returns by pairing steady APYs from lending vaults with swap fees.
+
 ### From Uniswap
 
 - [Full Range](https://github.com/Uniswap/v4-periphery/tree/example-contracts/contracts/hooks/examples/FullRange.sol): A hook that allows a Uniswap pool to provide liquidity for a range of prices. This can be used to create a market maker for a volatile asset or to provide more liquidity for a thin market.
