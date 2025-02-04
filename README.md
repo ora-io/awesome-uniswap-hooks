@@ -321,6 +321,7 @@ _Check out these related resources._
 - [Uniswap v4: A New Era For Defi](https://uniswapfoundation.mirror.xyz/5elfLDeU-AMehTtnwAswhc3p2NjF3_BWDtji6BEzh_0): Article from Uniswap discussing their excitement for the developing of the ecosystem -- highlighting hooks' ability to attract liquidity, design new interfaces, and bridge DeFi into the mainstream.
 - [Contribution Guidelines for Uniswap v4 Core](https://github.com/Uniswap/v4-core/blob/main/CONTRIBUTING.md): Uniswap has released the draft code so that v4 can be built in public with community contribution. You may contribute by opening an issue, resolving an issue, and reviewing open PRs.
 - [The Uniswap Hook Incubator](https://atrium.academy/uniswap): An 8-week program to help advanced DeFi devs build hooks.
+- [What are you building with Uniswap v4 hooks?](https://x.com/haydenzadams/status/1885786932438823252): A discussion tweet from Hayden Adams.
 
 ## 🙏 Thanks
 
