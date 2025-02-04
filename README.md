@@ -14,7 +14,7 @@ Special thanks to Uniswap Foundation for [including this resource in the officia
   - [🔄 Lifecycle](#-lifecycle)
   - [🔧 Functionalities](#-functionalities)
   - [📜 Examples](#-examples)
-    - [Projects]($projects)
+    - [Projects](#projects)
     - [From Uniswap](#from-uniswap)
     - [From Community](#from-community)
     - [From Hackathon](#from-hackathon)
