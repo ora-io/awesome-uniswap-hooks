@@ -126,6 +126,7 @@ _A collection of hooks from Uniswap and community developers._
 - [v2 on v4](https://github.com/hensha256/v2-on-v4): A hook that implements Uniswap v2 on Uniswap v4 with hook.
 - [Base v4 Hook](https://github.com/cairoeth/base-v4-hook): A hook that implements v4-like liquidity logic.
 - [Backrunning Oracle](https://github.com/RigoBlock/back-geo-oracle/blob/main/src/BackGeoOracle.sol): A backrunning oracle is an onchain PoS resistant price oracle that records the price of an asset in a Uniswap liquidity pool using the geometric mean formula. See also [Rigoblock's research blog post on backrunning oracles](https://mirror.xyz/rigoblock.eth/yKAD5uYyH0KwfdsOxzt0MyppkFJZzXkxAFeufPGVA2M).
+- [Slippage Fee Hook](https://github.com/dennnis0204/slippage-fee-hook): A hook protects swappers from slippage exceeding 5% based on two prices including the pool's current price and the simulated post-swap price that reflects slippage.
 
 ### From Hackathon
 
