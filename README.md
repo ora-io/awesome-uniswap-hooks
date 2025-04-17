@@ -78,6 +78,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Angstrom](https://x.com/angstromxyz): The first DEX that defends LPs. Angstrom utlizes Uniswap v4 hook for ensuring only staked Angstrom validators can execute swaps to realize onchain DEX based on decentralized node network.
 - [Flaunch](https://flaunch.gg/): Meme coin launchpad that enables 100% of trading fees go to creators and buybacks. Flaunch utilizes Uniswap v4 hook for enabling fair price launch of token, and distributing swap fees automatically.
 - [Bunni](https://bunni.pro/): The shapeshifting exchange that maximizes liquidity provider profits in all market conditions. Bunni utilizes Uniswap v4 hook for rehypothecation that boosts LP returns by pairing steady APYs from lending vaults with swap fees.
+- [Unimon](https://www.unimon.app/): NFT battle game contained and managed inside of a Uniswap V4 hook. Unimon utilizes Uniswap v4 hook to mint NFT after swapping with specfic pool.
 
 ### From Uniswap
 
