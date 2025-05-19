@@ -128,6 +128,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Base v4 Hook](https://github.com/cairoeth/base-v4-hook): A hook that implements v4-like liquidity logic.
 - [Backrunning Oracle](https://github.com/RigoBlock/back-geo-oracle/blob/main/src/BackGeoOracle.sol): A backrunning oracle is an onchain PoS resistant price oracle that records the price of an asset in a Uniswap liquidity pool using the geometric mean formula. See also [Rigoblock's research blog post on backrunning oracles](https://mirror.xyz/rigoblock.eth/yKAD5uYyH0KwfdsOxzt0MyppkFJZzXkxAFeufPGVA2M).
 - [Slippage Fee Hook](https://github.com/dennnis0204/slippage-fee-hook): A hook protects swappers from slippage exceeding 5% based on two prices including the pool's current price and the simulated post-swap price that reflects slippage.
+- [Encrypted Limit Order Hook](https://github.com/marronjo/iceberg-cofhe): A hook that enables FHE encrypted 'iceberg' orders. Utilising the [Fhenix](https://www.fhenix.io/) coprocessor for encryption/decryption operations to allow users to keep their order size and direction hidden.
 
 ### From Hackathon
 
@@ -342,3 +343,4 @@ _Thanks to these contributors for making this list possible._
 - [buendiadas](https://github.com/buendiadas)
 - [LiRiu](https://github.com/LiRiu)
 - [omahs](https://github.com/omahs)
+- [marronjo](https://github.com/marronjo)
