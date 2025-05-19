@@ -79,6 +79,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Flaunch](https://flaunch.gg/): Meme coin launchpad that enables 100% of trading fees go to creators and buybacks. Flaunch utilizes Uniswap v4 hook for enabling fair price launch of token, and distributing swap fees automatically.
 - [Bunni](https://bunni.pro/): The shapeshifting exchange that maximizes liquidity provider profits in all market conditions. Bunni utilizes Uniswap v4 hook for rehypothecation that boosts LP returns by pairing steady APYs from lending vaults with swap fees.
 - [Unimon](https://www.unimon.app/): NFT battle game contained and managed inside of a Uniswap V4 hook. Unimon utilizes Uniswap v4 hook to mint NFT after swapping with specfic pool.
+- [Super DCA](https://superdca.org/): Time-wieghted Average Market Maker using Uniswap V4 hooks for dynamic fees and Curve-like gauge for controlling reward token distribution across pools. 
 
 ### From Uniswap
 
@@ -128,6 +129,7 @@ _A collection of hooks from Uniswap and community developers._
 - [Base v4 Hook](https://github.com/cairoeth/base-v4-hook): A hook that implements v4-like liquidity logic.
 - [Backrunning Oracle](https://github.com/RigoBlock/back-geo-oracle/blob/main/src/BackGeoOracle.sol): A backrunning oracle is an onchain PoS resistant price oracle that records the price of an asset in a Uniswap liquidity pool using the geometric mean formula. See also [Rigoblock's research blog post on backrunning oracles](https://mirror.xyz/rigoblock.eth/yKAD5uYyH0KwfdsOxzt0MyppkFJZzXkxAFeufPGVA2M).
 - [Slippage Fee Hook](https://github.com/dennnis0204/slippage-fee-hook): A hook protects swappers from slippage exceeding 5% based on two prices including the pool's current price and the simulated post-swap price that reflects slippage.
+- [Super DCA Gauge Hook](https://github.com/Super-DCA-Tech/super-dca-gauge): A Uniswap v4 hook for dynamic fee adjustments and fair reward distribution. It enables fee reductions for allowlisted addresses during swaps and distributes Super DCA token rewards to liquidity providers through staking. Rewards are allocated via the `beforeAddLiquidity` and `beforeRemoveLiquidity` hooks, and DCA token holders can influence reward emissions to pools through Curve-style staking.
 - [Encrypted Limit Order Hook](https://github.com/marronjo/iceberg-cofhe): A hook that enables FHE encrypted 'iceberg' orders. Utilising the [Fhenix](https://www.fhenix.io/) coprocessor for encryption/decryption operations to allow users to keep their order size and direction hidden.
 
 ### From Hackathon
@@ -343,4 +345,5 @@ _Thanks to these contributors for making this list possible._
 - [buendiadas](https://github.com/buendiadas)
 - [LiRiu](https://github.com/LiRiu)
 - [omahs](https://github.com/omahs)
+- [mikeghen](https://github.com/mikeghen)
 - [marronjo](https://github.com/marronjo)
