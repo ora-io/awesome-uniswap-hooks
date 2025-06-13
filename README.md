@@ -329,6 +329,7 @@ _Check out these related resources._
 - [Contribution Guidelines for Uniswap v4 Core](https://github.com/Uniswap/v4-core/blob/main/CONTRIBUTING.md): Uniswap has released the draft code so that v4 can be built in public with community contribution. You may contribute by opening an issue, resolving an issue, and reviewing open PRs.
 - [The Uniswap Hook Incubator](https://atrium.academy/uniswap): An 8-week program to help advanced DeFi devs build hooks.
 - [What are you building with Uniswap v4 hooks?](https://x.com/haydenzadams/status/1885786932438823252): A discussion tweet from Hayden Adams.
+- [The current AMM hook extension system matrix](https://x.com/z0r0zzz/status/1933212332597141685): A graph for Uniswap Hooks and other AMM hook extension system.
 
 ## 🙏 Thanks
 
