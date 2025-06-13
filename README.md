@@ -274,6 +274,7 @@ _Empower your learning curve with these insightful tutorials._
 - [Umbrella Research: A Deep Dive With Captain Hook (I)](https://medium.com/@umbrellaresearch/uniswap-v4-hooks-a-deep-dive-with-captain-hook-i-6be5d1677539): This tutorial shows how developers can implement role-based features within the Uniswap v4 protocol.
 - [Umbrella Research: Uniswap v4 Hooks Guide (II) Dynamic Fees Hook](https://medium.com/@umbrellaresearch/uniswap-v4-hooks-a-deep-dive-with-captain-hook-ii-44b0efc84e45): This article talks about how Dynamic Fees work and their impact on Uniswap V4.
 - [Rahat: Exploring Hooks on Uniswap V4](https://www.youtube.com/watch?v=4n8yAtnwxBI): This stream shows how developer learns about hooks on Uniswap V4 with SaucePoint - Developer Relations Engineer at Uniswap.
+- [OpenZeppelin: 6 Questions To Ask Before Writing a Uniswap v4 Hook ](https://x.com/OpenZeppelin/status/1932441300550177122): This guide outlines some key considerations when designing a hook to suit your specific needs.
 
 ## 💡 Articles
 
