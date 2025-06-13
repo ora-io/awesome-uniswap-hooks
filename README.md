@@ -79,7 +79,8 @@ _A collection of hooks from Uniswap and community developers._
 - [Flaunch](https://flaunch.gg/): Meme coin launchpad that enables 100% of trading fees go to creators and buybacks. Flaunch utilizes Uniswap v4 hook for enabling fair price launch of token, and distributing swap fees automatically.
 - [Bunni](https://bunni.pro/): The shapeshifting exchange that maximizes liquidity provider profits in all market conditions. Bunni utilizes Uniswap v4 hook for rehypothecation that boosts LP returns by pairing steady APYs from lending vaults with swap fees.
 - [Unimon](https://www.unimon.app/): NFT battle game contained and managed inside of a Uniswap V4 hook. Unimon utilizes Uniswap v4 hook to mint NFT after swapping with specfic pool.
-- [Super DCA](https://superdca.org/): Time-wieghted Average Market Maker using Uniswap V4 hooks for dynamic fees and Curve-like gauge for controlling reward token distribution across pools. 
+- [Super DCA](https://superdca.org/): Time-wieghted Average Market Maker using Uniswap V4 hooks for dynamic fees and Curve-like gauge for controlling reward token distribution across pools.
+- [UniDerp](https://uniderp.fun/): Meme coin launchpad that distributes trading fee with creators, referers, and platform itself with Uniswap v4 hook.
 
 ### From Uniswap
 
