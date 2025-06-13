@@ -1,6 +1,6 @@
 # 🦄️ Awesome Uniswap v4 Hooks
 
-> Check out [Uniswap v4 Launch Announcement](https://uniswapfoundation.mirror.xyz/MHmGXC9KZOL1VkKERF2ZwrR6RuYzLLoBV3eM67cMjXY) for more contents.
+> Check out [Uniswap v4 Launch Announcement](https://uniswapfoundation.mirror.xyz/MHmGXC9KZOL1VkKERF2ZwrR6RuYzLLoBV3eM67cMjXY), [HookRank](https://hookrank.io/), and [v4 Hook Explorer](https://dune.com/agaperste/v4-hook-explorer) for more contents.
 
 A curated list of awesome [Uniswap v4](https://github.com/Uniswap/v4-core) [hooks](https://github.com/Uniswap/v4-periphery/tree/main/contracts/hooks) resources.
 
